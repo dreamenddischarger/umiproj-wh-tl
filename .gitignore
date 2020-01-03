@@ -6,3 +6,4 @@ project.xcworkspace
 build
 *.pyc
 *.o
+out/wh.txt
