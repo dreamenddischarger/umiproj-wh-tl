@@ -7,3 +7,4 @@ build
 *.pyc
 *.o
 out/wh.txt
+out/Witch-Hunt.file

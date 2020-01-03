@@ -1,4 +1,4 @@
-Port of [Witch Hunt](https://witch-hunt.com)'s [official Umineko translation](https://store.steampowered.com/app/406550) to [Umineko Project](https://umineko-project.org)
+Port of Witch Hunt's official Umineko translation to the [Umineko Project](https://umineko-project.org) engine.
 
 Currently a work in progress and not recommended for use.
 
@@ -6,10 +6,10 @@ Notes on project structure for contributors:
 - The `story` folder is what you're interested in. Anything outside of it is irrelevant to this project.
 - `story/epX/en/` contains the original Umineko Project translation. Do not modify anything here.
 - `story/epX/wh/` contains a copy of that translation that's being replaced with the WH translation as I progress through the project (see commits to know where I'm at)
-- `story/rest.txt` is an auto-generated version of the script for Question Arcs. The parts that are in this file haven't been touched by me yet.
+- `story/rest-rondo.txt` and `story/rest-nocturne.txt` are an auto-generated version of the scripts. This won't run by itself and needs manual editing. The parts that are in these files haven't been touched by me yet.
 
 Suggested workflow:
-- Cut a chunk of text out of `rest.txt` that corresponds to a chapter (one of the story/epX/wh/umiX_X.txt files that haven't been finished yet).
+- Cut a chunk of text out of `rest-X.txt` that corresponds to a chapter (one of the story/epX/wh/umiX_X.txt files that haven't been finished yet).
 - Paste that chunk into the corresponding file, replacing everything.
 - Commit and push those changes. This will let other developers know you've taken a chunk and are working on it.
 - Open the file you've just changed in an editor with good diff support (personally, I use VS Code).
@@ -21,4 +21,4 @@ Build process:
 3. `mkdir out; php update-manager/update-manager.php dscript out/wh.txt . wh`
 4. Check `out/wh.txt` for anything suspicious. You probably won't find anything because the script is too complicated for human consumption.
 5. `php update-manager/update-manager.php script out/wh.txt "out/Witch-Hunt.file" 8`
-6. Copy the generated `.file` file to the Umineko Project directory and choose "English (Witch Hunt)" as your language in the game settings.
+6. Copy the generated `.file` file to the Umineko Project directory and choose "Witch-Hunt" as your language in the game settings.

@@ -178,18 +178,18 @@
 `I've never met anyone who could read it right the first time.`
 `I usually get called "{c:86EF9C:Sento‐kun}".`
 `Sorry, but that's not even close.`
-`My name is written 右代宮 戦人.`
+`My name is written {p:0:右代宮 戦人}.`
 `Can you read it?`
 ` The first part is my family name, 'Ushiromiya'.`
 ` That's a fairly plausible Japanese pronunciation so far.`
 `The problem is my given name.`
-`.........戦人 is made up of the characters for 'fight' and 'person', and it's pronounced 'Battler'.`
+`.........{p:0:戦人} is made up of the characters for 'fight' and 'person', and it's pronounced 'Battler'.`
 `Put it all together, and you've got Ushiromiya Battler.`
 `Pretty crazy, right?`
 ` It's crazy enough that my parents decided to call me that, but it's even more crazy that some government worker let them make it official.`
 ` ...Both groups are at the top of my must-kill list.`
 `Anyway, this is one of my cousins.`
-`His name is 右代宮 譲治, pronounced Ushiromiya George.`
+`His name is {p:0:右代宮 譲治}, pronounced Ushiromiya George.`
 `He's five years older than me, so he must be turning 23 this year.`
 `Since the Ushiromiya cousins consist of two boys and two girls, I ended up playing with George all the time.`
 `And because I've always thought of him as a big brother, I still call him 'Aniki' today.`
@@ -208,7 +208,7 @@
 ` Now, I never even imagined that I'd become the company president I am today, master of my own domain...`
 ` Yep, to think I've come this far after starting out penniless and ruined...!"`
 `This stout, plump, old guy is `
-`George-aniki's dad, Uncle Hideyoshi (秀吉).`
+`George-aniki's dad, Uncle Hideyoshi ({p:0:秀吉}).`
 `He's the husband of Dad's older sister.`
 `In other words, we're not blood-related.`
 `He's nice to children, sociable all the time, and even quick to give out some spending money to us kids. Simply put, he's an awesome uncle.`
@@ -236,7 +236,7 @@
 ` ...*giggle* You must tell your aunt all about it later.`
 ` After all, nothing of the sort ever happens to George.`
 ` Heheheh..."`
-`This is George-aniki's mother, Aunt Eva (絵羽).`
+`This is George-aniki's mother, Aunt Eva ({p:0:絵羽}).`
 `She's my Dad's older sister.`
 `She and Uncle Hideyoshi are a pair of jokers, and they've always teased me, back as far as I can remember.`
 `This sometimes made them a bit hard to get along with when I was small.`
@@ -267,7 +267,7 @@
 `"Yes, leave it all to me.`
 ` After all, that's my specialty."`
 `This woman is my father's wife.`
-`Her name is Ushiromiya Kyrie (霧江).`
+`Her name is Ushiromiya Kyrie ({p:0:霧江}).`
 `As you can probably tell from our conversation, she's not my real mother.`
 `She's basically my stepmother.`
 `My real mom died six years ago.
@@ -310,9 +310,9 @@
 `It's no surprise Aunt Eva started talking about Dad's blood when she saw my height.`
 `By the way, my height isn't the only thing I got from him.`
 ` It seems having weird names runs in the family.`
-`Dad's full name is written 右代宮 留弗夫.`
+`Dad's full name is written {p:0:右代宮 留弗夫}.`
 `......You can't read it, can you?`
-`Come on, it's just 留弗夫.`
+`Come on, it's just {p:0:留弗夫}.`
 `Anyway, this guy's name is pronounced 'Rudolf'.`
 `Haha... He must hate Grandfather for giving him that name.`
 `Still, that's no reason to pass that weird naming tradition onto me.`
@@ -558,15 +558,15 @@
 ` She's just the way I remembered her being six years ago.`
 `Seems that people just don't change that much after all.`
 ` I'm a bit happy that she's still the pure, innocent girl I remember.`
-`Her name is written 真里亞.`
+`Her name is written {p:0:真里亞}.`
 `...Of course, `
-`真里亞 is pronounced 'Maria'.`
+`{p:0:真里亞} is pronounced 'Maria'.`
 `The third character looks like a cross, which is pretty cool.`
 `Her feelings don't usually show up on her face, so it can be difficult to know just what she's thinking, but that's just how she looks on the outside.`
 `On the inside, she's just a sweet, normal girl.`
 `Then there's Maria's mother, Aunt Rosa.`
 ` She's my dad's younger sister.`
-`Rosa is written 楼座.`
+`Rosa is written {p:0:楼座}.`
 ` ...Here's a name that's totally not Japanese.`
 `Sorry to say it, but her name's almost as ridiculous as Dad's...`
 ` I've got to respect her for not ending up as screwed up as he is.`
