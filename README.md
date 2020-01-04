@@ -1,6 +1,6 @@
 Port of Witch Hunt's official Umineko translation to the [Umineko Project](https://umineko-project.org) engine.
 
-Currently a work in progress and not recommended for use.
+Currently an incomplete work in progress. Use only for testing, be prepared for bugs and crashes, as well as the actual translation port not being finished yet.
 
 Notes on project structure for contributors:
 - The `story` folder is what you're interested in. Anything outside of it is irrelevant to this project.
@@ -15,7 +15,10 @@ Suggested workflow:
 - Open the file you've just changed in an editor with good diff support (personally, I use VS Code).
 - Remove any suspicious translations and adjust lines to fit. The line numbers between the original translation and the new one *must* match, or else the wrong lines will be "translated". You may need to split/join some of the lines in the WH translation, but try to avoid taking any liberties while doing so such as adding extra words in the joined sentence.
 
-Build process:
+Automated build process:
+This repository is set up to produce a pre-release on every push. If you can push to this repo, you can just wait for the build to finish after the push and download it from your releases page. The releases page is where testers should check for latest versions of the script as well.
+
+Manual build process:
 1. Install PHP somewhere on your PATH. No extra modules are required, just the default configuration is fine.
 2. `cd` to the project root.
 3. `mkdir out; php update-manager/update-manager.php dscript out/wh.txt . wh`
