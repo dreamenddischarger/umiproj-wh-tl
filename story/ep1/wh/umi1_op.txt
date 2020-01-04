@@ -380,7 +380,7 @@
 `The 'checking weather' sign was still stuck next to the departure times for the flight we were scheduled to board.`
 `According to Aniki, smaller planes are more subject to winds and other effects of the weather, `
 `and it's not at all uncommon for flights to be delayed because of that.`
-`...Wait a sec, we ~ib~are~ib~ totally sure it's not gonna shake, ...right...?`
+`...Wait a sec, we {i:are} totally sure it's not gonna shake, ...right...?`
 `From down here on the ground, it just looks cloudy, not windy.`
 `...Well, I guess it's different up where the planes fly.`
 `"The weather's a bit uncertain today."`
