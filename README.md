@@ -16,6 +16,7 @@ Suggested workflow:
 - Remove any suspicious translations and adjust lines to fit. The line numbers between the original translation and the new one *must* match, or else the wrong lines will be "translated". You may need to split/join some of the lines in the WH translation, but try to avoid taking any liberties while doing so such as adding extra words in the joined sentence.
 
 Automated build process:
+
 This repository is set up to produce a pre-release on every push. If you can push to this repo, you can just wait for the build to finish after the push and download it from your releases page. The releases page is where testers should check for latest versions of the script as well.
 
 Manual build process:
