@@ -1,0 +1,34 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout files
+      uses: actions/checkout@v1
+    - name: Build .file
+      run: |
+        mkdir out
+        php update-manager/update-manager.php dscript out/wh.txt . wh
+        php update-manager/update-manager.php script out/wh.txt out/Witch-Hunt.file 8
+    - name: Create release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: release_${{ github.ref }}
+        prerelease: true
+    - name: Upload .file
+      uses: actions/upload-release-asset@v1.0.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: out/Witch-Hunt.file
+        asset_name: Witch-Hunt.file
+        asset_content_type: application/octet-stream
