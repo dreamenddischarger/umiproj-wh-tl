@@ -29,7 +29,7 @@ Current progress is indicated below. Not that "Complete" here merely means that 
 |Episode|Status|
 |-|-|
 |Episode 1: Legend of the Golden Witch|Complete|
-|Episode 2: Turn of the Golden Witch|Up to chapter 14|
+|Episode 2: Turn of the Golden Witch|Complete|
 |Episode 3: Banquet of the Golden Witch|Not started|
 |Episode 4: Alliance of the Golden Witch|Not started|
 |Episode 5: End of the Golden Witch|Not started|
