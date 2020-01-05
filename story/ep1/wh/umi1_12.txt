@@ -60,7 +60,7 @@
 `With the substance sticking to the door around the doorknob, and the marks of something scratching against the door, `
 `...it had definitely appeared as though`
 ` someone had tried to open the door, but couldn't...`
-`'!s1`
+`"...Why...`
 `did the Madam avoid being chosen as a sacrifice...?`
 ` If only she'd been chosen, `
 `...Shannon wouldn't...`
@@ -512,8 +512,8 @@
 `For some reason, I couldn't just laugh off any of those possibilities.`
 `...Not even the most ridiculous story about the witch.`
 `"......Jessica, `
-`@:dwave_eng 0, but_1e989:`
-`@:dwave_eng 0, but_1e990:`
+` all I know about the story of the witch is that it was a story made by the adults to keep the kids too scared to enter the forest, but...`
+`...is it different here in the mansion...?"`
 `".........Hmmm...`
 ` I feel the same way you do, okay?`
 ` I think it was just a stupid ghost story that parents made up so their kids would listen to them.`

@@ -14,7 +14,7 @@
 ` G-Genji-san."`
 `"......Even we cannot adequately explain what happened in front of us."`
 `"It certainly, umm, ...happened right before our eyes!`
-` ~ib~It~ib~ was right in front of my eyes!`
+` {i:It} was right in front of my eyes!`
 ` However, `
 `...it was, umm, `
 `......what was it...?`
@@ -226,7 +226,7 @@
 `...And on the other hand, there's the rear attack, where she tries to lure me into wanting a witch to exist... by strengthening my suspicions of those close to me.`
 `In the first closed room, the chapel, she used the frontal attack, but it didn't work on me.`
 `So by the second closed room, and now on the third closed room, she's definitely changing the direction of her attack...`
-`However, the fact that she ~ib~is~ib~ changing the direction of her attack proves that my resistance is having some effect.`
+`However, the fact that she {i:is} changing the direction of her attack proves that my resistance is having some effect.`
 `...And she must've given up on the frontal attack because she clearly can't win with it...`
 `......I tried to settle my unease by thinking these things.`
 `But apparently, the witch had seen through me long ago.`
@@ -870,7 +870,7 @@
 ` Can you do it?`
 ` You can do it, riiiiiiiight??`
 ` When you do, I'll appear and say it in red!`
-` I'll tell Rosa that #ff0000there are only five master keys#ffffff!!"`
+` I'll tell Rosa that {p:1:there are only five master keys}!!"`
 `"Oh, but of course, you'll never abandon that lordly pride of yours.`
 ` But you've done well, you've done more than enough, and you're starting to get that tingly feeling, aren't you?`
 ` For just an instant, you thought maybe licking my shoes wouldn't be so bad, didn't you?`

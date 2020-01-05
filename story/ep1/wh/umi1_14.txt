@@ -520,8 +520,8 @@
 ` start acknowledging that witch's existence one by one...`
 `......Is that why she's in high spirits...?`
 `".........Maria, `
-`@:dwave_eng 0, but_1e1229:`
-`@:dwave_eng 0, but_1e1230:`
+` let me ask this one more time.`
+` You'll probably answer the same anyway, but I'll ask just once more."`
 `"Uu-...?"`
 `"...Yesterday, you were given a letter in the rose garden.`
 ` ......Who gave it to you...?!"`

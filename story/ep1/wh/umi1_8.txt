@@ -327,7 +327,7 @@
 `"...You're freaking me out, Dad.`
 ` Everyone in our family's gathered here now, right?`
 ` Don't make a big deal out of it and spit it out."`
-`'!s1`
+`"..................I'm probably...`
 `.........I will probably...`
 `be killed."`
 `There was a huge crash of thunder.`
@@ -1093,7 +1093,7 @@
 `...This moment certainly hadn't come as a surprise to Shannon...`
 `".........We should be getting back to the guesthouse soon.`
 ` If we take any longer, we'll make everyone worry about us."`
-`'!s1`
+`"......Ah,`
 `......umm...`
 ` ...I'm sorry, I...!`
 ` Um, I just remembered something I had to do in the mansion, so, `

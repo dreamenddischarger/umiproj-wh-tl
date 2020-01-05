@@ -312,7 +312,7 @@
 ` I love the way that sounds.`
 ` I'm so happy, `
 `Shannon."`
-`'!s1`
+`"I,`
 `I also...`
 `...have another name.`
 ` ......It's Sayo."`

@@ -532,7 +532,7 @@
 ` Something along those lines.`
 `...A short while ago, Maria had been more than willing to speak bluntly and unrestrainedly, and that had earned her a scuffle with Jessica.`
 `It was natural for Genji-san to keep his silence...`
-`'!s1`
+`"......Was she Father's...`
 `father's...`
 `concubine?"`
 `His concubine...`
@@ -576,7 +576,7 @@
 `...and his inescapable sorrow.`
 `...Earlier, this room had seemed creepy,`
 ` ...but in an instant, it had changed into something we could understand completely.`
-`'!s0`
+`The creepy books,`
 `the magic circles, `
 `the medicine, `
 `...all of it.`
@@ -705,7 +705,7 @@
 `It wasn't as massive as the one in the entrance hall,`
 ` but that portrait, which must have been drawn by some famous painter, was still just as intimidating in this smaller size.`
 `...Below it, just like in the entrance hall, was the epitaph that supposedly hinted at the location of the hidden gold...`
-`'!s1`
+`"..................ah...`
 `.........!`
 ` Sacrifices, `
 `...here."`

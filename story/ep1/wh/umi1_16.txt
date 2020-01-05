@@ -61,8 +61,8 @@
 `".........Were we too...`
 `...too cruel...`
 `...to Maria?"`
-`'!sd`
-`@:dwave_eng 0, nat_1e591:`
+`"............Jessica.`
+` ...You mustn't think that now."`
 `"...But Mom,`
 ` if Maria wasn't involved, and there's a culprit besides her, `
 `...then she's obviously a soft target for the murderer.`
@@ -292,7 +292,7 @@
 `But for a while, Aunt Natsuhi kept saying 'hello'.`
 `......A silent phone call...?`
 `There's no way Maria and the others would do something so creepy.`
-`'!s0`
+`......Which means...`
 ` Could this phone call...`
 `...possibly.........`
 `really be...?`
@@ -676,7 +676,7 @@
 `Half-crazed, Jessica ran up to Aunt Natsuhi.`
 `...On Aunt Natsuhi's forehead, `
 `...it was almost as though a sparkling shard of pigeon blood ruby had been placed there.`
-`'!s0`
+`......And,`
 `from it, one stream...`
 `of blood makeup...`
 `passed by her eye...`
@@ -772,7 +772,7 @@
 ` Who are you?!!`
 ` Just try moving one step, just try moving one finger!!`
 ` I'll blast you away!!!"`
-`'!s1`
+`"Kihihihihihihihihihihihihihihihihihihihihi,`
 `*giggle*giggle*giggle*giggle*giggle*, `
 `"*cackle*cackle*cackle*, *cackle*cackle*, `
 `ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha!!""`

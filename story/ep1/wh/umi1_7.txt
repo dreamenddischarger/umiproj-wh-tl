@@ -660,7 +660,7 @@
 `'I'm the witch's <mes-`
 `Me-`
 `Messenger>!`
-`'!sd@`
+` Uu!"`
 `"<Messenger>...?`
 ` Ihihihi, the almighty witch of the island sure likes to mess around."`
 `Battler tried to joke about it, but no one laughed.`
