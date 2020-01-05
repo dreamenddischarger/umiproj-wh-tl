@@ -1,6 +1,19 @@
 Port of Witch Hunt's official Umineko translation to the [Umineko Project](https://umineko-project.org) engine.
 
-Currently an incomplete work in progress. Use only for testing, be prepared for bugs and crashes, as well as the actual translation port not being finished yet.
+This is currently a work in progress and not finished -- not all chapters are translated yet, and there might bugs and crashes. You can grab the [latest release](../../releases/latest) and put it in your Umineko Project folder, then select the language in the settings, if you want to help test it. Current progress is indicated below. Not that "Complete" here merely means that the translation has been completely ported. It does not guarantee the episode being bug-free.
+
+|Episode|Status|
+|-|-|
+|Episode 1: Legend of the Golden Witch|Complete|
+|Episode 2: Turn of the Golden Witch|Up to chapter 14|
+|Episode 3: Banquet of the Golden Witch|Not started|
+|Episode 4: Alliance of the Golden Witch|Not started|
+|Episode 5: End of the Golden Witch|Not started|
+|Episode 6: Dawn of the Golden Witch|Not started|
+|Episode 7: Requiem of the Golden Witch|Not started|
+|Episode 8: Twilight of the Golden Witch|Not started|
+
+---
 
 Notes on project structure for contributors:
 - The `story` folder is what you're interested in. Anything outside of it is irrelevant to this project.
@@ -17,7 +30,7 @@ Suggested workflow:
 
 Automated build process:
 
-This repository is set up to produce a pre-release on every push. If you can push to this repo, you can just wait for the build to finish after the push and download it from your releases page. The releases page is where testers should check for latest versions of the script as well.
+This repository is set up to produce a pre-release on every push. If you can push to this repo, you can just wait for the build to finish after the push and download it from [here](../../releases/latest). This page is where testers should check for latest versions of the script as well.
 
 Manual build process:
 1. Install PHP somewhere on your PATH. No extra modules are required, just the default configuration is fine.
