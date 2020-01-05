@@ -18,7 +18,7 @@ If you have to ask, the answer is \<no\>, you don't. The fact that the Witch-Hun
 
 ## How do I use this?
 
-For one, please note that ***this is currently a work in progress and not finished*** -- not all chapters are translated yet, and there might bugs and crashes. You can grab the [latest release](../../releases/latest) and put it in your Umineko Project folder, then select the language in the settings, if you want to help test it. If you want a stable and complete experience, please check back some time later when the whole thing is done.
+For one, please note that ***this is currently a work in progress and not finished*** -- not all chapters are translated yet, and there might bugs and crashes. You can grab the `Witch-Hunt.file` from the [latest release](../../releases/latest) and put it in your Umineko Project folder, then select the language in the settings, if you want to help test it. If you want a stable and complete experience, please check back some time later when the whole thing is done.
 
 Current progress is indicated below. Not that "Complete" here merely means that the translation has been completely ported. It does not guarantee the episode being bug-free.
 
