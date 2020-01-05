@@ -14,7 +14,11 @@ However, some people prefer Witch-Hunt's new official translation. This project 
 
 ## Do I need this?
 
-If you have to ask, the answer is \<no\>, you don't. The fact that the Witch-Hunt translation has the "official" status doesn't necessarily mean it's superior in any way. Both the Umineko Project and the Witch-Hunt translations are perfectly readable, gramatically correct and clean English. The two teams, however, made several significantly different translation choices, and some of these choices such as character catchphrases and especially memorable lines stuck with fans one way or the other. This has led to a situation where some people will recommend against Umineko Project simply because it uses an unofficial translation, and that's no goddamn good at all. While I, personally, prefer the Umineko Project translation, I have created this project was created to resolve this conflict. If you simply *love* the official translation and can't enjoy Umineko Project without it, but you still *want* the cool PS3 stuff, this is for you. Otherwise, you should probably skip this altogether.
+If you have to ask, the answer is \<no\>, you don't. The fact that the Witch-Hunt translation has the "official" status doesn't necessarily mean it's superior in any way. Both the Umineko Project and the Witch-Hunt translations are perfectly readable, gramatically correct and clean English. 
+
+The two teams, however, made several significantly different translation choices, and some of these choices such as character catchphrases and especially memorable lines stuck with fans one way or the other. This has led to a situation where some people will recommend against Umineko Project simply because it uses an unofficial translation, and that's no goddamn good at all. 
+
+While I, personally, prefer the Umineko Project translation, I have created this project was created to resolve this conflict. If you simply *love* the official translation and can't enjoy Umineko Project without it, but you still *want* the cool PS3 stuff, this is for you. Otherwise, you should probably skip this altogether.
 
 ## How do I use this?
 
