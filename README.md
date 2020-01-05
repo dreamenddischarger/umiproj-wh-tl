@@ -1,6 +1,26 @@
 Port of Witch Hunt's official Umineko translation to the [Umineko Project](https://umineko-project.org) engine.
 
-This is currently a work in progress and not finished -- not all chapters are translated yet, and there might bugs and crashes. You can grab the [latest release](../../releases/latest) and put it in your Umineko Project folder, then select the language in the settings, if you want to help test it. Current progress is indicated below. Not that "Complete" here merely means that the translation has been completely ported. It does not guarantee the episode being bug-free.
+---
+
+# What is this?
+
+*Umineko no Naku Koro ni* is a visual novel released by 07th-Expansion. The game was originally released only in Japan on PC and PS3, with the PS3 release being significantly superior (better art, higher quality music, voice-acting, lip sync, animations, and a whole boatload of other improvements).
+
+The PC release was later translated to English by a group called *Witch-Hunt*. After a while, their translation was made official, received extra polish, and got published on Steam, but, sadly, it had none of the enhancements of the PS3 version.
+
+However, there is a  fanmade port of the PS3 version to PC called *Umineko Project*. This port uses a fan translation created based partially on the older, unofficial Witch-Hunt translation, partially on the official manga translation, and heavy editing done by the Umineko Project team.
+
+However, some people prefer Witch-Hunt's new official translation. This project exists to provide a language pack for Umineko Project that allows the use of the official translation combined with all of the improvements and enhancmenets of the PS3 version and the Umineko Project port.
+
+## Do I need this?
+
+If you have to ask, the answer is \<no\>, you don't. The fact that the Witch-Hunt translation has the "official" status doesn't necessarily mean it's superior in any way. Both the Umineko Project and the Witch-Hunt translations are perfectly readable, gramatically correct and clean English. The two teams, however, made several significantly different translation choices, and some of these choices such as character catchphrases and especially memorable lines stuck with fans one way or the other. If you simply *love* the official translation and can't enjoy Umineko Project without it, but you still *want* the cool PS3 stuff, this is for you. Otherwise, you should probably skip this altogether.
+
+## How do I use this?
+
+For one, please note that ***this is currently a work in progress and not finished*** -- not all chapters are translated yet, and there might bugs and crashes. You can grab the [latest release](../../releases/latest) and put it in your Umineko Project folder, then select the language in the settings, if you want to help test it. If you want a stable and complete experience, please check back some time later when the whole thing is done.
+
+Current progress is indicated below. Not that "Complete" here merely means that the translation has been completely ported. It does not guarantee the episode being bug-free.
 
 |Episode|Status|
 |-|-|
@@ -15,24 +35,26 @@ This is currently a work in progress and not finished -- not all chapters are tr
 
 ---
 
-Notes on project structure for contributors:
+# Notes on project structure for contributors
+
 - The `story` folder is what you're interested in. Anything outside of it is irrelevant to this project.
 - `story/epX/en/` contains the original Umineko Project translation. Do not modify anything here.
 - `story/epX/wh/` contains a copy of that translation that's being replaced with the WH translation as I progress through the project (see commits to know where I'm at)
 - `story/rest-rondo.txt` and `story/rest-nocturne.txt` are an auto-generated version of the scripts. This won't run by itself and needs manual editing. The parts that are in these files haven't been touched by me yet.
 
-Suggested workflow:
+## Suggested workflow
+
 - Cut a chunk of text out of `rest-X.txt` that corresponds to a chapter (one of the story/epX/wh/umiX_X.txt files that haven't been finished yet).
 - Paste that chunk into the corresponding file, replacing everything.
 - Commit and push those changes. This will let other developers know you've taken a chunk and are working on it.
 - Open the file you've just changed in an editor with good diff support (personally, I use VS Code).
 - Remove any suspicious translations and adjust lines to fit. The line numbers between the original translation and the new one *must* match, or else the wrong lines will be "translated". You may need to split/join some of the lines in the WH translation, but try to avoid taking any liberties while doing so such as adding extra words in the joined sentence.
 
-Automated build process:
+## Automated build process
 
 This repository is set up to produce a pre-release on every push. If you can push to this repo, you can just wait for the build to finish after the push and download it from [here](../../releases/latest). This page is where testers should check for latest versions of the script as well.
 
-Manual build process:
+## Manual build process
 1. Install PHP somewhere on your PATH. No extra modules are required, just the default configuration is fine.
 2. `cd` to the project root.
 3. `mkdir out; php update-manager/update-manager.php dscript out/wh.txt . wh`
