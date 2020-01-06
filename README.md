@@ -33,7 +33,7 @@ Current progress is indicated below. Not that "Complete" here merely means that 
 |Episode 3: Banquet of the Golden Witch|Not started|
 |Episode 4: Alliance of the Golden Witch|Not started|
 |Episode 5: End of the Golden Witch|Not started|
-|Episode 6: Dawn of the Golden Witch|Up to chapter 2|
+|Episode 6: Dawn of the Golden Witch|Up to chapter 4|
 |Episode 7: Requiem of the Golden Witch|Not started|
 |Episode 8: Twilight of the Golden Witch|Not started|
 
