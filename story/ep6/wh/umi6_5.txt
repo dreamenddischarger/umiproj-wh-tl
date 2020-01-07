@@ -299,7 +299,7 @@
 `"It is magic, it is magic!!`
 ` Beato used magic to make candies appear!!"`
 `"Then why don't you reproduce it for us?!!`
-` Founder of Mariage SorciÃ¨re, MARIA, the Witch of Origiiiiiiiiiiiiiiiinsss!!"`
+` Founder of Mariage Sorciere, {f:5:Maria}, the Witch of Origiiiiiiiiiiiiiiiinsss!!"`
 `"Lady Erika, this opponent is not worth your TIME.`
 ` This battle is not worth FIGHTING..."`
 `"Shut up, murder doll!!`
