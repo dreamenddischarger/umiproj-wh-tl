@@ -33,7 +33,7 @@ Current progress is indicated below. My goal is to release 5 chapters per day, b
 |Episode 3: Banquet of the Golden Witch|Not started|
 |Episode 4: Alliance of the Golden Witch|Not started|
 |Episode 5: End of the Golden Witch|Not started|
-|Episode 6: Dawn of the Golden Witch|Up to chapter 9|
+|Episode 6: Dawn of the Golden Witch|Up to chapter 14|
 |Episode 7: Requiem of the Golden Witch|Not started|
 |Episode 8: Twilight of the Golden Witch|Not started|
 
