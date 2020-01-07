@@ -54,6 +54,7 @@ Current progress is indicated below. Not that "Complete" here merely means that 
 - Open the file you've just changed in an editor with good diff support (personally, I use VS Code).
 - Remove any suspicious translations and adjust lines to fit. The line numbers between the original translation and the new one *must* match, or else the wrong lines will be "translated". You may need to split/join some of the lines in the WH translation, but try to avoid taking any liberties while doing so such as adding extra words in the joined sentence.
 - Check your script for anything that matches the regex `@|~|!\w|#`. These are ponscripter control characters, and you may accidently end up leaving some of them in. Fix up the matches that aren't actual dialogue. Running `script_fixup.py epX` may help you here.
+- Once you are finished with the episode, run the "spacing fix". Essentially, make sure that every line has *no* spaces at the beginning of it, and a single space at the end (inside the backticks, not outside of them).
 
 ## Automated build process
 
