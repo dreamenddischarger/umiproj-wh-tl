@@ -24,7 +24,7 @@ While I, personally, prefer the Umineko Project translation, I have created this
 
 For one, please note that ***this is currently a work in progress and not finished*** -- not all chapters are translated yet, and there might be bugs and crashes. You can grab the `Witch-Hunt.file` from the [latest release](../../releases/latest) and put it in your Umineko Project folder, then select the language in the settings, if you want to help test it. If you want a stable and complete experience, please check back some time later when the whole thing is done.
 
-Current progress is indicated below. My goal is to release 5 chapters per day, but I cannot promise that this pacing will be consistent, especially during weekdays. Not that "Complete" here merely means that the translation has been completely ported. It does not guarantee the episode being bug-free.
+Current progress is indicated below. My goal is to release 5 chapters per day, but I cannot promise that this pacing will be consistent, especially during weekdays. Also, due to personal reasons, episodes may be released out of order. Note that "Complete" here merely means that the translation has been completely ported. It does not guarantee the episode being bug-free.
 
 |Episode|Status|
 |-|-|
