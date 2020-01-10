@@ -366,7 +366,8 @@
 `Unless Will had eyes on the back of his head, he couldn't have seen this last bit...`
 `Will returned to the chapel by himself.`
 `The cold air and the monotonous sound of the rain were comforting.`
-`"...So, how's the game going?"`
+`{a:c:`
+`"...So, how's the game going?"}`
 `And he had come here for a little peace and quiet...`
 `As soon as he let out a sigh of relief, that voice rang out.`
 `"That's my line."`
