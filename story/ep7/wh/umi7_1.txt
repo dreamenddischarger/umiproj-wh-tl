@@ -29,6 +29,7 @@
 `Will took it, `
 `...silently bowed his head, and entered the chapel.`
 `Inside the chapel, several people who appeared to be the family of the deceased were gathered,`
+` and they all seemed to be recalling memories of the departed.`
 `"Oooooooohhh...`
 ` Beatriiiiice...`
 ` Why, `
@@ -116,13 +117,16 @@
 `The members of the Ushiromiya family had already followed Krauss's instructions and moved to the waiting room.`
 `By now, no one could be seen in this cold, vast chapel decorated with gold roses except for Will and Lion.`
 `"...So, you've come,`
-` ...Wizard-hunting Wright, Inquisitor of Heresy."`
+` ...Wizard-hunting Wright,
+  Inquisitor of Heresy."`
+
 `The girl's voice came suddenly from behind the pair.`
 `When Lion turned around in surprise, a girl had appeared out of nowhere and drifted down on top of the altar.`
 `She landed softly on the sacred funeral altar as though this was perfectly normal,`
 ` crushing the golden roses under her shoes...`
 `Of course, Lion didn't know this girl.`
-`...Just why on earth were all of these people unrelated to the funeral popping up one after another?`
+`...Just why on earth were all of these people unrelated to the funeral...`
+` popping up one after another?`
 `"I'm already retired.`
 ` If you have a job you need doing, go ask the new Wright."`
 `"No.`
@@ -248,7 +252,8 @@
 `Will scratched at his head with a displeased look on his face.`
 `He wasn't at all interested in getting involved,`
 ` ...but by now, he realized that he couldn't disobey Bernkastel's orders.`
-`Then, he approached the casket and pointed at its rose-filled insides.`
+`Then, he approached the casket...`
+`and pointed at its rose-filled insides.`
 `"You ask me to solve the case of Beatrice's murder, but...`
 ` #ff0000Van Dine's Twenty Rules, Rule #7.`
 ` It is forbidden to have a crime without a corpse.#ffffff"`
