@@ -272,7 +272,8 @@
 `"As you like."`
 `"First off, ...I need to make you understand the current situation."`
 `"...Yes, that would be extremely helpful at the moment."`
-`Lion's expression seemed nonplussed, angry, and confused, all at the same time.`
+`Lion's expression seemed nonplussed, angry, and confused,
+all at the same time.`
 `"Over here.`
 ` ...It'll be faster to see it for yourself."`
 `"...Wonderful.`
