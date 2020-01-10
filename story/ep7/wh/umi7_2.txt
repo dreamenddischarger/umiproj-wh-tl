@@ -520,11 +520,11 @@
 ` Or was it Lion?`
 ` I will check with them."`
 `"It was...the one who orders me.`
-` I cannot disobey orDERS."`
+` I cannot disobey or{f:5:DERS}."`
 `"Who is this person?`
 ` I'll negotiate with them."`
-`"You cannot...NEGOTIATE.`
-` It iS the oNE who orDERS US."`
+`"You cannot...{f:5:NEGOTIATE}.`
+` It i{f:5:S} the o{f:5:NE} who or{f:5:DERS US}."`
 `"Call Kanon over here.`
 ` ...I hate theatergoing just as much as I hate torture."`
 `Slowly, ...Will pulled his right hand out of his pocket.`
@@ -534,9 +534,9 @@
 `He held that hand out towards Shannon...and slowly approached her.`
 `"Call Kanon.`
 ` I want to check something with you two."`
-`"I...C A N N O T CALL HIM. DO YOU S T I L L ... WANT  ME TO...?"`
+`"{f:5:I...C A N N O T CALL HIM. DO YOU S T I L L ... WANT  ME TO}...?"`
 `"If you don't call him, I'm going to use my authority."`
-`"IF YO U INS IST, ...I CA N CA LL HIM  SPECI ALLY FOR  YOU, BUT..."`
+`"{f:5:IF YO U INS IST, ...I CA N CA LL HIM  SPECI ALLY FOR  YOU, BUT}..."`
 `"............"`
 `"       ."`
 `There was some kind of incomprehensible tension between the two.`
@@ -544,7 +544,8 @@
 `Shannon just stood there, her hands still folded politely in front of her,`
 ` ...her posture beautiful.`
 `And yet, ...it felt oddly as though windswept drops of rain were sparking and crackling in midair...`
-`"I WILL  GO  CA LL KA NON KUN. ARE  YOU  ABSOLUTELY  CER TAIN?"`
+`"{o:0:{e:85:{f:0:{g:0:{m:6:I WI}{m:15:LLG}{m:31:OCA}{m:0:LL KAN}{m:21:ON‐K}{m:22:UN.}}}}}"`
+`"{o:0:{e:85:{f:0:{g:0:{m:13:ARE YO}{m:26:U ABSOLUTELY}{m:4:CER}{m:41:cer}{m:71:TAIN?}}}}}"`
 `"........."`
 `Shannon's face was still kind and gentle.`
 `And yet, the tension was as icy as a frozen lake...`
