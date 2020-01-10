@@ -38,7 +38,7 @@
 `"Father, please, take care...`
 ` Why don't you rest in the waiting room for a bit..."`
 `"............"`
-`"I killed her,`
+`"I killed her
 ` ...I did it...!"`
 `"Absurd...!`
 ` How could that be, Rosa-sama...?"`
@@ -264,7 +264,8 @@
 `"........."`
 `Though there was no change to Will's unsatisfied expression,`
 ` ...he seemed to have understood the general pattern of this place.`
-`...The simple fact that a mere Inquisitor of Heresy had been summoned by an uninhibited, fickle, cruel great witch of the Senate...meant that he'd be treated as no more than a mere underling.`
+`...The simple fact that a mere Inquisitor of Heresy had been summoned by an uninhibited, fickle, cruel great witch of the Senate...`
+`meant that he'd be treated as no more than a mere underling.`
 ` All along, he had possessed no way to refuse her...`
 `"...So, who killed the owner of this empty coffin...?`
 ` ...I'll answer that question.`
