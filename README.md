@@ -8,7 +8,7 @@ Port of Witch Hunt's official Umineko translation to the [Umineko Project](https
 
 The PC release was later translated to English by a group called *Witch-Hunt*. After a while, their translation was made official, received extra polish, and got published on Steam, but, sadly, it had none of the enhancements of the PS3 version.
 
-However, there is a  fanmade port of the PS3 version to PC called *Umineko Project*. This port uses a fan translation created based partially on the older, unofficial Witch-Hunt translation, partially on the official manga translation, and heavy editing done by the Umineko Project team.
+However, there is a  fanmade port of the PS3 version to PC called *Umineko Project*. Because it was created before the official release, this port uses a fan translation created based partially on the older, unofficial Witch-Hunt translation, partially on the official manga translation, and heavy editing done by the Umineko Project team.
 
 However, some people prefer Witch-Hunt's new official translation. This project exists to provide a language pack for Umineko Project that allows the use of the official translation combined with all of the improvements and enhancmenets of the PS3 version and the Umineko Project port.
 
