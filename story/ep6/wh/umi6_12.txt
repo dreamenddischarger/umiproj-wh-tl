@@ -1,4 +1,4 @@
-`Erika was dozing off on her bed, so when a knock sounded on the door,  `
+`Erika was dozing off on her bed, so when a knock sounded on the door, `
 `it took some time before she noticed. `
 `She looked at the clock and saw that not much time had passed since she had lain down. `
 `"......Yes, who is it? `
@@ -218,7 +218,7 @@
 `At that time, `
 `if I had possessed the determination to kill my classmates... `
 `no, that's not it. `
-`At that time,  `
+`At that time, `
 `if I had been capable of killing my classmates... `
 `Capable of pulling it off... `
 `...Then the Seven Sisters of Purgatory would probably have pulled it off for me. `
@@ -246,13 +246,13 @@
 `Many victims had been found, and the mansion was still wrapped in chaos. `
 `Hideyoshi's group seemed to have gone to the guesthouse, worrying about the safety of the kids there. `
 `Krauss and Rudolf's group was in the hall, talking about what should be done next... `
-`During a short gap in this chaos,  `
+`During a short gap in this chaos, `
 `......Erika dashed all about the mansion. `
 `She was checking the crime scenes. `
 `Normally, with the detective's authority, Erika had the right to openly investigate the crime scenes to her heart's content. `
 `However, this time, she hadn't yet made use of that authority. `
 `...She was a guest and an outsider, so there was little to no chance that she would be allowed to investigate. `
-`So, she was forced to quickly check all of the crime scenes now,  `
+`So, she was forced to quickly check all of the crime scenes now, `
 `while she could still run about as she pleased. `
 `In the servant room, there had been a clear folder containing a sketch of the mansion's interior. `
 `Because she had borrowed that, she knew the locations of all the rooms... `
@@ -266,7 +266,7 @@
 `Of course, I understand that. `
 `...Still, that doesn't mean I can afford to miss viewing the crime scenes directly." `
 `"...After all, in the last game, my pride in that regard led me to a truly miserable failure." `
-`"For example, by this argument, no matter how well you examine a person's corpse,  `
+`"For example, by this argument, no matter how well you examine a person's corpse, `
 `you could not even guarantee that they were not faking their death with absolute CERTAINTY. `
 `Most probably, features of this situation must be individually confirmed by telling Battler to repeat them in RED." `
 `"And I'll need to use the blue truth liberally in order to make him. `
@@ -288,7 +288,7 @@
 `this time checking with my own eyes, as I had failed to do in the last game... `
 `First off, all of the scenes were made to look like closed rooms. `
 `Probably of special note was the fact that the master keys could have had nothing to do with the trick. `
-`The closed rooms were all made  `
+`The closed rooms were all made `
 `without relying on any elements that could be locked or unlocked from the outside by a master key or something else. `
 `The windows were locked from the inside, and the doors were all locked and chained. `
 `A master key could get around all the locks on the doors, but not the window locks or the chain locks. `
@@ -299,12 +299,12 @@
 `...I can't even properly confirm the death of the corpses." `
 `...Last time, I neglected to check the corpses...and let a massive bit of 'magic' get by me. `
 `I won't fail like that again... `
-`If I did,  `
+`If I did, `
 `...I wouldn't be able to face the master I am so indebted to... `
 `"We have checked all of the scenes and finished gathering INFORMATION. `
 `Here is our REPORT." `
 `"Go ahead." `
-`"First, all of the rooms were closed rooms formed by the window locks and chain locks and the like,  `
+`"First, all of the rooms were closed rooms formed by the window locks and chain locks and the like, `
 `so that 'interference from the outside would be DIFFICULT'. `
 `The only exception is the parlor, where Rosa and Maria lay DEAD." `
 `"Please, allow me to speak. `
@@ -357,7 +357,7 @@
 `In other words, this is an illusion of a crime." `
 `"It does seem that way. `
 `If so, these are all trick closed rooms. `
-`...Doesn't this mean that everyone got so pissed at Erika bragging about detectives and stuff  `
+`...Doesn't this mean that everyone got so pissed at Erika bragging about detectives and stuff `
 `that they joined together and set up a fake murder to make fun of her? `
 `Oh, is that the right answer? `
 `I'm, like, a super detectiveâ˜†" `
@@ -406,8 +406,8 @@
 `Seeing your face twist with anguish is the one forbidden honey I've found for myself." `
 `Lambdadelta had guaranteed that it was a perfect closed room. `
 `Bernkastel had guaranteed that it was a perfect murder. `
-`A perfect  `
-`'closed room'  `
+`A perfect `
+`'closed room' `
 `and 'murder'. `
 `The witches hate a killjoy, so they haven't said anything with the red truth yet. `
 `...Pursuing that was the role for Battler and Erika... `
@@ -430,7 +430,7 @@
 `Please read it aloud." `
 `"{f:5:Understood}. `
 `...We demand that the following be {f:5:repeated}." `
-`Dlanor spread out one of those scrolls that some official would always spread out when announcing the king in Western fairy tales,  `
+`Dlanor spread out one of those scrolls that some official would always spread out when announcing the king in Western fairy tales, `
 `and read it aloud. `
 `"First. `
 `'The rooms with the six people in them are all closed {f:5:rooms}'." `
@@ -516,7 +516,7 @@
 `And even if the human side manages to explain all of the riddles with the blue truth, `
 `if any one of those is successfully countered by the red truth, the witch will win. `
 `That was why, like the strategy the old Beato had adopted at the end, `
-`it was sufficient for the witch side to put off their red text counterarguments until the very last moment,  `
+`it was sufficient for the witch side to put off their red text counterarguments until the very last moment, `
 `then make a single strike at their opponent's most fragile spot... `
 `"In any event, ...you've refused to repeat that last one, right?" `
 `"Don't get the wrong idea. `
@@ -540,7 +540,7 @@
 `From here on, it's time for me to argue back with the blue truth." `
 `"Sure, fine. `
 `Let me hear your masterful theories." `
-`Though Battler and Erika were enemies,  `
+`Though Battler and Erika were enemies, `
 `...it looked to Beato as though they were having a little fun doing this. `
 `...She was probably slightly jealous of Erika. `
 `Beato thought back on the books she had read in Featherine's library, in which the old her and Battler had fought. `
@@ -702,7 +702,7 @@
 `However, they'd only thought that he'd forgotten to lock up, and were attacking him for letting the mysterious culprit sneak in. `
 `...They hadn't considered that one of the servants they knew so well might've taken those lives with their own hands. `
 `...No, they hadn't wanted to think that. `
-`People can't easily suspect someone they know well  `
+`People can't easily suspect someone they know well `
 `of being a culprit... `
 `"At the time of the crime, `
 `the mansion was locked from the inside, and only those involved with the family conference existed there." `

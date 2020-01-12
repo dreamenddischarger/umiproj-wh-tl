@@ -114,11 +114,11 @@
 `"Ah, ...is that it? `
 `...I see. Not bad." `
 `Since Erika was being 'protected' as a guest, it was hard for her to move about freely. `
-`In truth, she wanted to take some time and investigate the victims at the crime scenes at her leisure,  `
+`In truth, she wanted to take some time and investigate the victims at the crime scenes at her leisure, `
 `without being interrupted by anyone. `
 `She had already inspected the scenes once, in a huge rush as she ran through the mansion, but that probably hadn't been perfect. `
 `However, they wouldn't have let a guest into the crime scenes, so she'd had no other choice back then. `
-`...She wanted some time to herself and freedom to investigate more,  `
+`...She wanted some time to herself and freedom to investigate more, `
 `in part so that she could check the closed rooms and causes of death more closely. `
 `"...How is that related to splitting everyone into two rooms...?" `
 `"Because she'll be able to trick them with it. `
@@ -136,7 +136,7 @@
 `but that looked like it would be hard to do in front of Rudolf's intimidating glare. `
 `Rudolf stayed completely silent, `
 `but his inner emotions showed clearly in his eyes. `
-`So, Genji, Kanon, and Gohda  `
+`So, Genji, Kanon, and Gohda `
 `didn't have to ask to realize that they were suspected. `
 `Sometimes, Gohda asked to help in an attempt to get on their good side and correct this misunderstanding, `
 `but it seemed to be having the opposite effect. `
@@ -233,7 +233,7 @@
 `Erika closed the door, pushing Hideyoshi back inside. `
 `She then waited for the sound of the lock on the inside, ...and her smiling eyes opened wide. `
 `Her expression had become ruthless and intelligent. `
-`In this way, Erika was able to gain several hours  `
+`In this way, Erika was able to gain several hours `
 `during which all of the suspects were sealed up and she alone was free... `
 `"Fi-nally, I can investigate to my heart's content...! `
 `But first! `
@@ -303,7 +303,7 @@
 `That word can prevent you from using a new trick that I haven't even thought of." `
 `"......I see. `
 `...Pretty crafty of you..." `
-`If Battler was planning a new trick where the names and number of people would be used to create false alibis,  `
+`If Battler was planning a new trick where the names and number of people would be used to create false alibis, `
 `like the murder of Nanjo in the third game... `
 `Even naming off all 17 people and checking their positions left a trace of uncertainty behind. `
 `And if he cleverly managed to slip somebody past the names and numbers of people... `
@@ -335,7 +335,7 @@
 `The number of people on the island has already been announced, but since she's suspecting tricks involving names and numbers of people, `
 `saying the same thing again won't satisfy her. `
 `......In that case, I have no choice but to respond to her demand and use the word 'everyone'. `
-`That word has a disturbing ring to it,  `
+`That word has a disturbing ring to it, `
 `...and though I haven't figured it out yet, ...it feels like there's some kind of demonic killer move hidden within it... `
 `Damn. After insulting Beato so much and saying that the witch side had a huge advantage, `
 `...I'm getting this pressured just having to deal with a single line to repeat... `
@@ -423,9 +423,9 @@
 `Witches proposed closed rooms, and humans destroyed and denied them. `
 `That should have been the standard tactic of this game... `
 `And yet, Erika had created closed rooms herself, ...sealing a full 11 humans in them. `
-`In other words, ...this was the same as abandoning the right to use those 11 people  `
+`In other words, ...this was the same as abandoning the right to use those 11 people `
 `when explaining all of the later tricks... `
-`In the past, Battler had confirmed the location of certain people,  `
+`In the past, Battler had confirmed the location of certain people, `
 `but that had been to check whether certain pieces existed with which he could break closed rooms, a completely different situation. `
 `...Why had Erika taken these 11 people, who were also her pieces, ...and sealed them in a closed room? `
 `Cornelia hadn't experienced enough fights to understand this move, `
@@ -433,7 +433,7 @@
 `"A disturbing move... `
 `What on earth is Erika planning...?" `
 `"...It isn't necessarily an attack. `
-`In chess and shogi,  `
+`In chess and shogi, `
 `strengthening the guard around your king is an excellent strategy." `
 `"In other words, the seals around those two rooms aren't an attack, ...but a guard...?" `
 `"That seems likely. `
@@ -450,11 +450,11 @@
 `So, the witch side wants to increase its number of attacks. `
 `The human side wants to lower the number of attacks... `
 `When Battler had fought on the human side, he hadn't thought of the survivors holing up in a room as being particularly useful. `
-`However, from the witch side's perspective,  `
+`However, from the witch side's perspective, `
 `this strategy was simple but effective. `
 `What made Beato incredible... `
 `was how she'd bluffed and sneered at this tactic, as though it was completely useless. `
-`...On the inside,  `
+`...On the inside, `
 `she must've been so worried over how to break down all of these barricades in each game. `
 `Right now, I'm sure of that... `
 `"I see, so strengthening your guard to make it hard for a crime to occur is one way for the human side to fight..." `
@@ -481,8 +481,8 @@
 `"Yes, it's a high-level technique. `
 `...It's when a square seems to be under an enemy's control, `
 `but you've spotted that your own pieces actually have enough influence over it, so you attack." `
-`"...Erika,  `
-`if you really believe that you can stop my next attack by sealing up all the survivors,  `
+`"...Erika, `
+`if you really believe that you can stop my next attack by sealing up all the survivors, `
 `...that's just naive." `
 `Battler raised his new black piece high. `
 `...His target was a single open space deep behind enemy lines. `
@@ -504,7 +504,7 @@
 `"All right. `
 `...The locks on the first floor of the guesthouse are perfect. `
 `The entrance is sealed up with a chain lock." `
-`Before leaving the guesthouse, Erika did a check of the first floor,  `
+`Before leaving the guesthouse, Erika did a check of the first floor, `
 `making sure that nothing was out of place. `
 `Then she found a flashlight and umbrella in the servant room next to the entrance. `
 `"Then let's {f:5:go}." `
@@ -520,7 +520,7 @@
 `".........!" `
 `"It's......one of the usual {f:5:letters}." `
 `It was one of those letters sent by the witch, ...with the seal of the One-Winged Eagle on it. `
-`It had been wedged under the outside mat in front of the entrance,  `
+`It had been wedged under the outside mat in front of the entrance, `
 `...as though someone had predicted that Erika would eventually leave for the mansion by this way. `
 `It was in the shadows of the large eaves, so it had avoided the rain entirely. `
 `"...So, it's here already. `
@@ -561,7 +561,7 @@
 `there's something I need to apologize for." `
 `Apologize...? `
 `Battler and Beato's eyes went wide. `
-`However, though Erika said that she wanted to apologize,  `
+`However, though Erika said that she wanted to apologize, `
 `she had a confident look on her face, as though even that apology would be a new move. `
 `...So, Battler glared at her dubiously, without letting his guard down. `
 `"It's about those retroactive seals. `
@@ -581,7 +581,7 @@
 `"Allow me to {f:5:report}. `
 `...Battler's guest room was sealed at the time of Lady Erika's inspection of the {f:5:corpses}." `
 `".........!" `
-`Beato tried not to let it show on her face,  `
+`Beato tried not to let it show on her face, `
 `but her eyebrows twitched visibly and her gaze flicked over to Battler. `
 `"Normally, I would've liked to seal all the closed rooms, but I didn't have enough packing tape. `
 `...Out of respect for the Game Master, I sealed only the room with Battler-san's corpse." `
@@ -609,7 +609,7 @@
 `There's no need to lose your cool." `
 `Erika had suspected it since the beginning. `
 `It was possible that Battler actually hadn't been killed and was still alive. `
-`And, if he was alive,  `
+`And, if he was alive, `
 `...then the letter that had suddenly appeared was easy to explain, ...even though all of the 'survivors' were sealed up. `
 `Judging by Beato's faint agitation, ......maybe...Erika's guess had been right on the mark. `
 `Battler played dead and somehow got around Erika's examination. `
@@ -624,7 +624,7 @@
 `Since the survivors were all sealed up inside the guesthouse, `
 `then if the seals on the guest room were broken, it meant acknowledging that at least one of the victims was actually alive. `
 `If Battler had known about the seals earlier, it was likely that he would have advanced the game in a different way to avoid this. `
-`In other words,  `
+`In other words, `
 `it was very likely that an announcement about the seals would've had a large effect on the rest of Battler's game. `
 `Erika was saying: 'If Battler avoided breaking the seals because he was pretending to be a corpse, and instead remained inside the guest room, `
 `perhaps this letter would not have appeared in the story'... `
@@ -680,11 +680,11 @@
 `Since all of the survivors are sealed within the closed room of the guesthouse, `
 `...it is possible to embellish this suddenly appearing letter and say 'It was a curious bit of magic, for only a witch could have placed it there'. `
 `...But even so, it must be a 'possible trick' in the end." `
-`In order to see through the trick with the candy and the cup,  `
+`In order to see through the trick with the candy and the cup, `
 `Erika had countered with the blue truth, saying that the candy had been snuck in there while her eyes were closed. `
 `That was the correct answer, so Maria hadn't had any red that she could use. `
 `...But what if {i:she had} used it? `
-`For example, what if Maria had used the red truth then to say  `
+`For example, what if Maria had used the red truth then to say `
 `'Until I lifted the cup up, the closed room of the overturned cup remained intact'...? `
 `"The red truth can only be used to refer to the truth, right? `
 `If you could lie with it, it'd be a massive violation of the rules." `
@@ -692,7 +692,7 @@
 `Denying your own trick with the red truth is a major violation of the rules. `
 `However, if you instantly switch over to another trick that doesn't violate that red truth, `
 `it may be slightly unfair, but that red truth can be acknowledged." `
-`"...So in this case, the witch side would need to immediately propose another trick that doesn't contradict the red truth  `
+`"...So in this case, the witch side would need to immediately propose another trick that doesn't contradict the red truth `
 `stating that 'The closed room inside the cup was preserved'. `
 `...Like the excuses of a politician when he keeps backtracking as new evidence is shown to him." `
 `"Yes. `
@@ -714,7 +714,7 @@
 `the new truth must not contradict any of the previously stated red truths. `
 `If the red truth makes it so that 'The trick no longer makes logical sense', `
 `then there will be a mismatch between the two sides of the story: the illusory result that the Game Master claims is magic, and the true result that was brought about by a trick. `
-`So, when we get a contradiction and it no longer makes logical sense,  `
+`So, when we get a contradiction and it no longer makes logical sense, `
 `we call it a logic error... `
 `And that would mean...the destruction of the witch's game. `
 `"This world is a game that's possible to explain with humans. `

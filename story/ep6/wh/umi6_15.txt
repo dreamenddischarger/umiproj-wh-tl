@@ -1,5 +1,5 @@
 `The entrance to the mansion was locked, but Erika had a master key, so she opened it without any trouble. `
-`She had gotten Krauss and the others to take the master keys from the servants,  `
+`She had gotten Krauss and the others to take the master keys from the servants, `
 `and at that time, she had used a little sleight of hand to pilfer one of them... `
 `"Well {f:5:then}. `
 `Where shall we go {f:5:first}?" `
@@ -53,7 +53,7 @@
 `Heh, hehihihihihihihihihihihi!!!" `
 `Erika destroyed the packing tape seal on the door in ecstasy... `
 `It looked as though the intellectual rapist had finally laid her true nature bare. `
-`"...Okay,  `
+`"...Okay, `
 `...I'm opening it... `
 `Let's have a look... `
 `...at Battler-san's... `
@@ -111,7 +111,7 @@
 `Beato already knew. `
 `She knew the move that Battler had made a second ago. `
 `...Battler had...already disappeared from this room... `
-`Therefore, they would need to prepare a disappearing trick other than  `
+`Therefore, they would need to prepare a disappearing trick other than `
 `'He was actually alive and left through the door'. `
 `The situation is simple. `
 `First, this room is a closed room. `
@@ -158,7 +158,7 @@
 `......Hmmmmm...?" `
 `Lambdadelta understood what Battler had up his sleeve. `
 `...And she saw that Erika's first move had indeed gone straight through his heart. `
-`Just as Erika had guessed,  `
+`Just as Erika had guessed, `
 `Battler was alive, and had slipped out of the room after Erika had examined his 'corpse', `
 `...placed the letter by the guesthouse, and hid himself somewhere. `
 `When the packing tape seals had been retroactively placed on the guest room, `
@@ -198,7 +198,7 @@
 `...I thought you were playing chess... `
 `In the world of chess, ...if you rely on luck, ...you die..." `
 `By 'hoping to draw something useful', `
-`...she meant relying on luck and betting that, even if he couldn't think of a trick now,  `
+`...she meant relying on luck and betting that, even if he couldn't think of a trick now, `
 `he might think of a good plan for making a closed room trick later on. `
 `If you enter into the fight... `
 `...without any trick in mind, `
@@ -225,7 +225,7 @@
 `"...From here on out, you can use all the twisted logic you want to rebuild the trick in this room. `
 `...In other words, it's possible that you might think of a good idea partway through the fight. `
 `...Normally, it's unfair to revise your plot partway through. `
-`In order for that to be acceptable, ...you need a world stopped in time, where everything happens at once,  `
+`In order for that to be acceptable, ...you need a world stopped in time, where everything happens at once, `
 `...and where logic that you think of afterwards can counter your opponent's earlier moves." `
 `"Of course, Erika can take advantage of this rule as well. `
 `...If you revise your trick to be a new one, she can deal with that in a different way." `
@@ -319,7 +319,7 @@
 `...I'll turn it over if it's needed, so look forward to it. ...*giggle*." `
 `After thoroughly checking the bedroom, ...Erika headed for the bathroom door. `
 `Since he wasn't in the bedroom, it was natural to think that he was in the bathroom. `
-`And, since the guest room was made up of two rooms, if Battler wasn't in the bathroom either,  `
+`And, since the guest room was made up of two rooms, if Battler wasn't in the bathroom either, `
 `...it would mean that he had managed to vanish from the closed room. `
 `...Except for that single location that Erika had intentionally left unchecked... `
 `"I'm checking the bathroom." `
@@ -355,12 +355,12 @@
 `so that anyone who went through the door would be met with a wave of hot water. `
 `The pressure was very strong, which probably accounted for the weight she had felt when trying to push the door open. `
 `She tried to make the nozzle point in another direction, `
-`but not only was it fixed in place by the wire,  `
+`but not only was it fixed in place by the wire, `
 `it was also fixed in a place high enough that Erika couldn't reach it with her height. `
 `She tried to turn off the pressure, but that was also held in place by wires. `
 `She couldn't manage anything with her bare hands. `
 `She would have to get a tool that could cut the wires. `
-`However, when she looked into the bathtub, which was overflowing with very hot water,  `
+`However, when she looked into the bathtub, which was overflowing with very hot water, `
 `she saw a bundle of wires and some nippers that had been used to cut them lying at the bottom. `
 `If she used that, she could turn off the pressure... `
 `"...Ah, owowowowowowow!! `
@@ -428,7 +428,7 @@
 `...The walk-in closet next to the entrance!!}" `
 `*bang*!! `
 `...Like a falling white lightning bolt, `
-`...the white piece  `
+`...the white piece `
 `hit the board, `
 `...landing by a weak spot in Battler's formation... `
 `"Yes, it is {f:5:here}...!!!" `
@@ -441,7 +441,7 @@
 `"{p:2:There are no places in which to hide other than {f:5:this}. `
 `You are now hiding in {f:5:here}}." `
 `"......What do you say, Battler-san...? `
-`Have you been struck through the chest  `
+`Have you been struck through the chest `
 `for a literal Smothered Mate...?" `
 `"........." `
 `"...Battler-san, `
@@ -480,7 +480,7 @@
 `...There are no exceptions, including the closet.}" `
 `Like a black bolt of lightning this time, `
 `...Battler slammed his piece down on the white piece of Erika's that had cut deep behind his lines, ...crushing hers. `
-`It scattered like a golden spray and melted beautifully into the darkness  `
+`It scattered like a golden spray and melted beautifully into the darkness `
 `as a faint cloud of gold sparks drifted about... `
 `"...I see, so he hid in the closet at first, `
 `...and then slipped out of the room while Erika was occupied by the shower!" `
@@ -525,7 +525,7 @@
 `...I...gave her permission to do that." `
 `"This is the cost of your {f:5:pride}. `
 `...Sympathy is the evil liquor that the proud are most fond {f:5:of}." `
-`"So,  `
+`"So, `
 `with this retroactive move, `
 `{p:1:I proclaim that the chain lock has been repaired by the packing tape seal and has regained its original functionality. `
 `And, thanks to that, I locked the room upon entering it and made this guest room a closed room from the inside once more.}" `
@@ -539,7 +539,7 @@
 `Battler's face contorted. `
 `...Beato, who was watching from behind, grimaced even more. `
 `This move...was very painful. `
-`If his logic had him hiding in the closet until Erika left,  `
+`If his logic had him hiding in the closet until Erika left, `
 `using the uproar in the bathroom to escape, `
 `...then the chain lock must have been undone. `
 `In other words, he couldn't respond to her demand. `
@@ -549,7 +549,7 @@
 `And she would be right. `
 `...This was...checkmate. `
 `As Erika had predicted, she would strike the finishing blow on the second move. `
-`...And on top of that, she would probably use the disappearing Battler  `
+`...And on top of that, she would probably use the disappearing Battler `
 `to solve most of the crimes that were to follow. `
 `...Losing the battle in this closed room would steal a major deciding piece from Battler... `
 `But what if... `
@@ -587,11 +587,11 @@
 `If he could somehow get around the chain lock, `
 `...he could force Erika to deal with a terrible closed room! `
 `It would probably end up as a finishing blow to her. `
-`But in order to do that, he would need to make a trick for escaping  `
-`'the closed room that existed before Erika came back',  `
+`But in order to do that, he would need to make a trick for escaping `
+`'the closed room that existed before Erika came back', `
 `which was now 'the closed room sealed by the chain that Erika set right after entering the room', `
 `and on top of that, he had to make sure that 'the chain that could only be set from the inside remained in place'...! `
-`If he could do that, if he could find a way,  `
+`If he could do that, if he could find a way, `
 `...then it would end here...! `
 `But I still can't think of that trick...! `
 `Right now, Erika is demanding to know whether the chain lock is still set or not. `
@@ -637,7 +637,7 @@
 `"My cards might be useless. `
 `...However, ...with just one more card, they might become a straight, a flush, `
 `...or even a royal flush. `
-`......If hell waits for me after both options,  `
+`......If hell waits for me after both options, `
 `...I'll take the one that'll finish her off if I win...!" `
 `"...Th-That's an insane move. `
 `...Sometimes, madmen leap into the path of death, `
@@ -651,7 +651,7 @@
 `...I can kill Erika on my second move. `
 `I still can't think of a trick for escaping this closed room. `
 `However, ...there has to be something, ...there has to... `
-`Once I think of that, ...I can make a magic illusion of me changing into a butterfly  `
+`Once I think of that, ...I can make a magic illusion of me changing into a butterfly `
 `and slipping out of the crack in the door like smoke... `
 `...If I have even a drop of that mad magician's blood in my veins, `
 `......please let that honor... `
@@ -664,7 +664,7 @@
 `...Battler's hand stretched out to his king piece on the board. `
 `He lifted it up... `
 `...and slowly... `
-`...held it aloft,  `
+`...held it aloft, `
 `...tracing a large circle in the sky... `
 `Would Battler respond, ...or wouldn't he? `
 `Would the lock caused by the chain be preserved, or wouldn't it? `
@@ -684,12 +684,12 @@
 `{p:1:The lock caused by the chain is intact.}" `
 `Battler's king... `
 `...had left the chain lock piece in its place... `
-`...and had  `
+`...and had `
 `{i:slipped past it}... `
 `"Heh, ...heheheheheheheh... `
 `...Yeah, it sure would be cool if you could say that the chain lock was still set, wouldn't it...? `
 `Don't you think that'd be cool...? `
-`...But do you know what they call a fool  `
+`...But do you know what they call a fool `
 `who's full of himself and jumps into the path of death just because it's cool...?" `
 `"...No clue..." `
 `"Ushiromiya...Battler. `
@@ -698,12 +698,12 @@
 `... `
 `... `
 `... `
-`That's  `
-`what  `
-`we  `
-`call  `
-`them  `
-`aaaahhaaaaaaaaaaaaaahhhaaaaaaaaaaaaaaaaaaaaaahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhh,  `
+`That's `
+`what `
+`we `
+`call `
+`them `
+`aaaahhaaaaaaaaaaaaaahhhaaaaaaaaaaaaaaaaaaaaaahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhh, `
 `I file a motion for a logic error!!" `
 `"That red truth of yours just now has cut off your own logic!! `
 `Please have the impartial referee make her judgment immediately!! `
@@ -725,7 +725,7 @@
 `I have no intention of apologizing." `
 `"...If it's a logic error, the game board will be blown away. `
 `...You've inherited this game board from Beato. `
-`......It's the one thing you have left  `
+`......It's the one thing you have left `
 `of that precious Beato. `
 `So, you must not allow for a logic error." `
 `A logic error only becomes established when the witch admits to it. `
@@ -763,7 +763,7 @@
 `...to seize victory." `
 `That might...have been the purpose of the card Beato had been gripping as she fell. `
 `Beato passed away... `
-`...without realizing  `
+`...without realizing `
 `that she had won. `
 `In the final game, `
 `...the true victor... `
@@ -800,7 +800,7 @@
 `"........." `
 `After gulping stiffly, `
 `...Lambda looked several times between the formation of the pieces on the board... `
-`...and Battler's face,  `
+`...and Battler's face, `
 `which remained tense but steady. `
 `"...Lambda......?" `
 `"......I have... `
@@ -863,7 +863,7 @@
 `and to the power of this miracle. `
 `...Incredible, ...Ushiromiya Battler. `
 `It's my complete loss for thinking that your power and Beato's would cancel each other out and bring an eternal draw. `
-`And...Bern, who thought everything would move according to her plan,  `
+`And...Bern, who thought everything would move according to her plan, `
 `even though she already knew your true strength, `
 `...has also suffered a complete loss. `
 `Bern is the witch who waits for miracles. `
@@ -873,7 +873,7 @@
 `...Just now, `
 `...without a doubt, `
 `...you have surpassed Bern... `
-`...You really did,  `
+`...You really did, `
 `...in this one moment, `
 `...think up a trick by which to escape from this closed room...! `
 `As Erika had predicted, ...Battler had been hiding in the closet. `
@@ -882,7 +882,7 @@
 `That's why they retroactively set the chain lock and sealed it to prevent Battler from doing this very thing. `
 `The chain lock cannot be reset from the outside. `
 `So, it should have been impossible to escape from the closed room. `
-`However, ...Battler didn't let his thinking get trapped inside this closed room,  `
+`However, ...Battler didn't let his thinking get trapped inside this closed room, `
 `...and so, he broke through. `
 `...It doesn't matter who, ...but let's explain it with his mother, Kyrie's piece. `
 `Just like Battler, the life or death status of the rest of the first twilight victims has not been specified by the red truth. `
@@ -898,7 +898,7 @@
 `Yes. `
 `...Battler truly isn't inside this guest room right now. `
 `However, that doesn't mean that no one else is inside it. `
-`...Kyrie took Battler's place in the closet,  `
+`...Kyrie took Battler's place in the closet, `
 `...the one exception that Erika had left, and is there still... `
 `Kyrie... `
 `......saved......Battler............ `
@@ -976,7 +976,7 @@
 `...There's no way." `
 `"Yes, there is {f:5:none}. `
 `...However, ...there is a certain action permissible only to Humans without the detective's authority, `
-`...and it can become a truth of such overwhelming credibility that  `
+`...and it can become a truth of such overwhelming credibility that `
 `witches can easily raise it to the level of red {f:5:truth}." `
 `"A certain action...... `
 `permissible only to Humans who aren't the detective...?" `
@@ -1042,8 +1042,8 @@
 `"......Erikaa...aa..." `
 `"Without the detective's authority, I can't tell whether the victims are dead or faking. `
 `So, I needed a way to be sure. `
-`...And, if possible,  `
-`it would be preferable if they were removed from the game board  `
+`...And, if possible, `
+`it would be preferable if they were removed from the game board `
 `so that they couldn't make a mess of things later on." `
 `"So, I dashed through the chaos-filled mansion, `
 `visited all the crime scenes, `
@@ -1066,7 +1066,7 @@
 `I used enough knives and bags for several people, then left them there at the crime scene. `
 `Of course, I didn't humiliate myself by walking around with them, leaving blood in the hallways and dirtying my clothes. `
 `There will probably be trash bags left at the crime scenes with my fingerprints on them, `
-`but since this game ends before the police come, that can't be used as evidence,  `
+`but since this game ends before the police come, that can't be used as evidence, `
 `so there's no problem with leaving them there. `
 `"...Are you insane? `
 `......What kind of... `
@@ -1075,10 +1075,10 @@
 `"I can't believe I'm hearing this from a witch on the fantasy side. `
 `Oh, and don't worry. `
 `I didn't kill you. `
-`...I didn't have time to sever the head of the last one found,  `
+`...I didn't have time to sever the head of the last one found, `
 `so I just sealed your whole room with the packing tape you gave me." `
 `"...Then again, that might've been because I knew this would happen and wanted to watch you struggle. `
-`......*giggle*,  `
+`......*giggle*, `
 `...*giggle*giggle*giggle*giggle*giggle*! `
 `Oh, that's right. `
 `...Just as I can say that I killed them in red, I can say one more thing." `
@@ -1107,8 +1107,8 @@
 `...Uu...uugyaaaaaaaaaaaaaaaahhhhhh!!!" `
 `This time, Beato understood the entire plot of this tale. `
 `This tale...was just the story of a prank. `
-`Surely, someone had thought of playing a slightly harsh trick on this inconsiderate guest,  `
-`who loved to show off her intelligence and act the part of a great detective,  `
+`Surely, someone had thought of playing a slightly harsh trick on this inconsiderate guest, `
+`who loved to show off her intelligence and act the part of a great detective, `
 `...and several people had agreed to go along with it. `
 `Then, the ones who would play the victims would go into their assigned rooms, set the chain and the lock from the inside, `
 `...and play dead...to create a fake closed room murder... `
@@ -1161,7 +1161,7 @@
 `"Bwaattleeer-shwaaaaaann!! `
 `Pweease, look at thiiiiiiiiiisss!! `
 `Whhhaaaaat arrrre theeeesse?!" `
-`Erika, who was now so excited that her pronunciation was tumbling all over the place,  `
+`Erika, who was now so excited that her pronunciation was tumbling all over the place, `
 `pointed at two doors. `
 `It was the hallway on the second floor of the guesthouse... `
 `...They were in front of the cousin room and the next room over. `
@@ -1198,7 +1198,7 @@
 `Erika had guessed that this moment might come so long ago, `
 `...and that was why she had made the strategic move of suddenly sealing those two rooms. `
 `This answered the doubts Cornelia had felt at the time. `
-`Wondering why the human side player wouldn't want as many free humans as  `
+`Wondering why the human side player wouldn't want as many free humans as `
 `possible was a natural, simple reaction to that move. `
 `However, if you sealed up all humans, `
 `...there would be no room for magic to intervene. `
@@ -1231,7 +1231,7 @@
 `"It is merciful. `
 `There's no restriction on the amount of time you have to make that choice. `
 `......*giggle* That's right, your time is endless, eternal." `
-`"I-I'm sure there's still some way,  `
+`"I-I'm sure there's still some way, `
 `...some twisted logic that can get you out of this... `
 `...Anyway, ...I'm sure there's still some way...!" `
 `"I'm thinking about it! `
@@ -1308,9 +1308,9 @@
 `"Can't you see it? There's a round hole that leads straight out of this room." `
 `"...It's a bit small though..." `
 `"Y- `
-`You people,  `
+`You people, `
 `...you people... `
-`...aahh,  `
+`...aahh, `
 `...nngggyaaaaaaaaaaaaaaahhh..." `
 `"It's the drain right there at the bottom of the bathtub. `
 `You can get out through there without touching the chain lock. `
@@ -1321,7 +1321,7 @@
 `She couldn't mean using those nippers for a hundred years to widen that hole, right...? `
 `Battler and Beato...had already realized. `
 `...They had figured out this demonic way out that the demons were proposing... `
-`"Just use those nippers,  `
+`"Just use those nippers, `
 `...and cut your body down to a size that can fit." `
 `"...*crunch*crunch*. `
 `...Might as well sit back in the tub under a hot shower... `
@@ -1370,7 +1370,7 @@
 `...that terror comes back to me. `
 `......I wonder...whether I really have escaped from that hell. `
 `......What if...I actually lost my mind a long time ago... `
-`...and I'm still in there,  `
+`...and I'm still in there, `
 `just seeing a delusion of us all chatting happily like this...? `
 `...That nightmare still terrifies me... `
 `...And so, I need to constantly feel...truly feel that this isn't a dream... `
@@ -1379,10 +1379,10 @@
 `There was something in Lambdadelta's pleading expression that sent shivers down the spine. `
 `It was probably more terrifying than any threatening words she could have used with even the most vile expression on her face... `
 `It's time for Battler to realize. `
-`...A logic error isn't so sympathetic that you can just stick out your tongue,  `
+`...A logic error isn't so sympathetic that you can just stick out your tongue, `
 `ask for forgiveness, and say you'll be more careful next time... `
 `It is never worth risking one by leaving things up to chance, even if you feel that you can't back down at this point in the fight... `
-`It's time for him to face reality and learn the true risks and terrors implied by the words 'betting one's life on a fight',  `
+`It's time for him to face reality and learn the true risks and terrors implied by the words 'betting one's life on a fight', `
 `which must sound so exciting for a man... `
 `"Battler-san, get ahold of yourself...! `
 `I'll think deeply upon it as well! `
@@ -1398,7 +1398,7 @@
 `...Or, like you'd say it, <see you again>, right? `
 `<Have a nice day>... `
 `*giggle*, *giggle*giggle*giggle*!" `
-`"......Later,  `
+`"......Later, `
 `...Battler. `
 `...Good luck." `
 `"Battler-san, don't give up...! `
@@ -1407,14 +1407,14 @@
 `"B-Beato......?!" `
 `Before he could finish saying Beato's name, ...they had all disappeared. `
 `...They hadn't disappeared in a golden spray, or turned into butterflies and flown away... `
-`Just as though there had never been anyone in this room  `
+`Just as though there had never been anyone in this room `
 `since the beginning, `
 `......everyone but him had vanished in an instant. `
 `Nothing remained... `
 `...Not their voices, their presence, their warmth, `
 `...nor even the faint perfume Beato had worn. `
 `The frigid air of the room was wrapped only in the lonely sound of the wind and rain... `
-`With that overpowering feeling of isolation,  `
+`With that overpowering feeling of isolation, `
 `...I finally began to realize...how horrible a punishment this would be... `
 `"...D-Damn those bastards... `
 `...It can't be that hard to get out of a room like this... `
@@ -1449,7 +1449,7 @@
 `Dammit...dammit...dammit... `
 `...Nng... `
 `ggyaaaaaaaaaaaaaaaaaahhhh...!!! `
-`"...Battler-san,  `
+`"...Battler-san, `
 `...Battler-san!! `
 `Hang in there, hang in there...!!" `
 `"...... `
@@ -1476,16 +1476,16 @@
 `...It's to escape from boredom. `
 `...Because when we get bored, ...we remember. `
 `We remember that hell. `
-`...And, you know,  `
-`...by throwing someone else down into that hell,  `
-`...we realize that, oh, we're the ones on the throwing side,  `
+`...And, you know, `
+`...by throwing someone else down into that hell, `
+`...we realize that, oh, we're the ones on the throwing side, `
 `...and that means we aren't in that hell ourselves. `
-`...If we don't keep doing that,  `
+`...If we don't keep doing that, `
 `......then the fear of that hell will overwhelm us..." `
 `"...If you two managed to get out of it, then he certainly will! `
 `I will save him...!! I can say it with certainty...!!!" `
 `"With 'certainty'...? `
-`...You swear with certainty before me,  `
+`...You swear with certainty before me, `
 `Lambdadelta, the Witch of Certainty...?" `
 `"Yes, with certainty...!!" `
 `"...... `

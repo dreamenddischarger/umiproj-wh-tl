@@ -3,20 +3,20 @@
 `"Aaah, Shannon! `
 `Thank goodness you're safe...! `
 `If something had happened to you, I...!" `
-`"...George-sama,  `
+`"...George-sama, `
 `...uuuuu......" `
 `"George-kun, be quiet for a second! `
 `A murder occurred before your very eyes, right?! `
 `Did you see the culprit?! `
 `Or not?!!" `
-`"...Th-That is, umm,  `
+`"...Th-That is, umm, `
 `...how should I explain...?! `
 `G-Genji-san." `
 `"......Even we cannot adequately explain what happened in front of us." `
 `"It certainly, umm, ...happened right before our eyes! `
 `{i:It} was right in front of my eyes! `
-`However,  `
-`...it was, umm,  `
+`However, `
+`...it was, umm, `
 `......what was it...? `
 `Even I don't understand!" `
 `"What are you saying?! `
@@ -67,7 +67,7 @@
 `I didn't have a clue if he was confused because he couldn't remember... `
 `or because he'd seen something terrifying and couldn't accept it. `
 `And Shannon looked the same way. `
-`If she let her guard down, what she'd seen just a short while ago would quickly melt away like a daydream,  `
+`If she let her guard down, what she'd seen just a short while ago would quickly melt away like a daydream, `
 `and she wouldn't be able to remember anything. `
 `...That's what she looked like. `
 `Only Genji looked composed as usual. `
@@ -110,7 +110,7 @@
 `...But even so, for some reason, I felt like their awkwardness couldn't be explained by confusion alone... `
 `...What did they see? `
 `Like they said, did they really {i:see something that couldn't be explained with words}...? `
-`Aunt Rosa, who'd decided that further talk wouldn't get us anywhere,  `
+`Aunt Rosa, who'd decided that further talk wouldn't get us anywhere, `
 `concluded her questioning and said she wanted to check the two bodies. `
 `That was something I'd been wanting to do too. `
 `The witnesses had been unable to figure anything out, but they'd been shaken. `
@@ -144,8 +144,8 @@
 `George-aniki was standing by the entrance, covering Maria's eyes, with his back to the room. `
 `...He probably didn't want to dirty an innocent girl's retinas with the repulsive blood in this room. `
 `That was surely the correct decision. `
-`...I was acting tough right now, so I didn't mind,  `
-`...but for the rest of my life, whenever I see red paint scattered around,  `
+`...I was acting tough right now, so I didn't mind, `
+`...but for the rest of my life, whenever I see red paint scattered around, `
 `I'll probably remember this room and start to vomit. `
 `...My retinas have already had this room burned into them. `
 `...In other words, it's already too late for me... `
@@ -358,7 +358,7 @@
 `Which means...at this very moment! `
 `The culprit is still hiding in the servant room, holding their breath...!!! `
 `And that means......what the hell... `
-`Even though we've been tortured by closed rooms three times,  `
+`Even though we've been tortured by closed rooms three times, `
 `...at this very moment, we've actually gotten the culprit in checkmate!! `
 `"I'm finally starting to see it. `
 `...Eat this, Beato!! `
@@ -405,19 +405,19 @@
 `For a second, I thought I had it! `
 `It was all useless!! `
 `Dammit, `
-`, I was so sure that I'd finally seen through her,  `
+`, I was so sure that I'd finally seen through her, `
 `that I'd seen how she distracted me with her clever red wordplay and fooled me. `
 `......Just when I thought I'd seen a light in the darkness, `
 `......it disappeared... `
 `just disappeared... `
 `swallowed up...... `
 `by a blood-red sea......! `
-`Red,  `
+`Red, `
 `... `
 `... `
-`red  `
-`red  `
-`red  `
+`red `
+`red `
+`red `
 `red!! `
 `No one is hiding! `
 `And there's no hidden door, and no way to get past the door or the window while they're locked!! `
@@ -425,7 +425,7 @@
 `Has the Devil's Proof... `
 `been fulfilled... `
 `with a frontal attack?! `
-`Impossible,  `
+`Impossible, `
 `...that's impossible!! `
 `"What's wrong, Ushiromiya Battleer? `
 `Weren't you so confident in your ability to deny witches? `
@@ -433,10 +433,10 @@
 `"Yes, what a truly splendid tactic. `
 `Truly splendid how you're trying to make me fall over and drown in a sea of tears from my own laughter. `
 `That {i:is} what you're trying to do, right? `
-`You're trying to make me laugh and laugh and laugh myself to death, right,  `
+`You're trying to make me laugh and laugh and laugh myself to death, right, `
 `U `
 `shiro `
-`miya  `
+`miya `
 `Batt `
 `le `
 `e `
@@ -590,14 +590,14 @@
 `Genji-san quietly put a stop to that. `
 `"......Enough. `
 `...What Rosa-sama says is quite sensible. `
-`...Until we find the corpses,  `
+`...Until we find the corpses, `
 `{i:we cannot prove Doctor Nanjo and Kumasawa's innocence}." `
 `That's right. `
 `...By Rosa-san's argument, if their corpses can be found, then the innocence of those people alone can be proven. `
 `But that only counted for the corpses. `
 `Even if the survivors searched the mansion and found the corpses, in the end, their own innocence would never be proven. `
 `'They kidnapped Doctor Nanjo and Kumasawa-san, killed them in another place, and locked the closed room with their own master keys.' `
-`Unless the closed room could be broken by a method other than that one,  `
+`Unless the closed room could be broken by a method other than that one, `
 `...it would be impossible to prove their innocence... `
 `...But......that couldn't be done!! `
 `They only have one chance to prove their innocence. `
@@ -675,9 +675,9 @@
 `doing... `
 `...All that stuff about tricks and closed rooms didn't matter... `
 `......It's just, it's just... `
-`...that the witch Beatrice actually exists,  `
+`...that the witch Beatrice actually exists, `
 `......and she's really a witch... `
-`...And because I didn't believe,  `
+`...And because I didn't believe, `
 `......it's been so painful... `
 `...and so sad......" `
 `"......You...believe in Beatrice...?" `
@@ -708,7 +708,7 @@
 `......If only we had... `
 `...just believed in...... `
 `...the witch......" `
-`After gently brushing my cheek as my tears kept dripping down,  `
+`After gently brushing my cheek as my tears kept dripping down, `
 `...Maria kissed my forehead, as soft as a feather. `
 `For just that instant, ...Maria's smile, which had once seemed creepy to me, looked like that of an angel... `
 `"We have returned the master keys, ...but our loyalty to the Ushiromiya family will not change. `
@@ -726,7 +726,7 @@
 `...We will return to the kitchen. `
 `If you need anything, please command us at any time." `
 `"Thank you. `
-`......If you are a wolf,  `
+`......If you are a wolf, `
 `how shamelessly you speak. `
 `...And if you are a sheep, `
 `......then I'm sorry for throwing you into the cage of wolves." `
@@ -736,7 +736,7 @@
 `"............ `
 `I hope you all manage to remain safe until the typhoon passes, if such a thing is possible. `
 `This is all a rhapsody of blowing winds and pouring rain performed by the typhoon. `
-`...When the performance ends...and the curtain closes,  `
+`...When the performance ends...and the curtain closes, `
 `...we will surely be able to grasp hands together again." `
 `"...When the seagulls...cry." `
 `Aunt Rosa nodded in response... `
@@ -744,7 +744,7 @@
 `He left the servant room. `
 `Gohda-san's face was still streaked with tears, `
 `...but maybe he'd managed to sort out his feelings as he listened to Genji-san's words. `
-`...His face had been truly shameful,  `
+`...His face had been truly shameful, `
 `...but it had returned to the face of the Gohda-san we knew well. `
 `"......I will also be waiting in the kitchen. `
 `...If you need anything, please command me at any time. `
@@ -800,7 +800,7 @@
 `...If you're with me, even Beatrice won't be able to lay a hand on you. `
 `I may be small, but I'm still a witch." `
 `"Yes. `
-`......Maria-chan,  `
+`......Maria-chan, `
 `I'm leaving Battler in your care. `
 `......All right, Shannon. `
 `Let's go." `
@@ -829,8 +829,8 @@
 `It's obvious that some duplicate keys exist. `
 `...As if we could trust them just because they pulled keys out of their pockets...!!" `
 `"Y-You don't mean that, right...? `
-`B-By setting down those keys, ...they weren't just letting go of them...  `
-`...You've...made all their hard work count for nothing, disgraced it, trampled it,  `
+`B-By setting down those keys, ...they weren't just letting go of them... `
+`...You've...made all their hard work count for nothing, disgraced it, trampled it, `
 `......and in the end, you made them give up their keys... `
 `What's with that parting line...? `
 `They've shown that they're willing to go this far, and you still can't trust them?! `
@@ -846,7 +846,7 @@
 `Please, Beatrice, show yourself right now, `
 `and tell Aunt Rosa in red that 'there are only five master keys'!! `
 `Please, I'm begging you, this can only be proved by devils, by a witch like you! `
-`Please, Beato, show yourself here and tell Rosa that those are all the master keys,  `
+`Please, Beato, show yourself here and tell Rosa that those are all the master keys, `
 `and that there's no need to suspect anyone anymore...!!!" `
 `" `
 `{p:1:There are only five master keys}. `

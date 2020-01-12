@@ -17,7 +17,7 @@
 `As a group of people who met a horrible fate, let's all get along and lick each other's wounds! `
 `Licklicklick!!" `
 `"Speaking of a horrible fate, Shannon beats the rest of us hands down, doesn't she? `
-`She was such a beautiful character, so I thought she'd definitely survive until the very end,  `
+`She was such a beautiful character, so I thought she'd definitely survive until the very end, `
 `but she was killed right in the beginning, and on top of that...what was it? `
 `Half of her face was smashed, right? `
 `That's the worst!" `
@@ -140,11 +140,11 @@
 `"I-I'm the one who doesn't have a clue what you guys are talking about! `
 `Isn't it obvious that humans committed these crimes? `
 `There's no way something like a witch exists, right...?" `
-`"Th-Then,  `
+`"Th-Then, `
 `...what about when I was killed in the storehouse, and something horrible was done to half of my face? `
 `...If the culprit was human, how could they have accomplished it...?" `
 `"...That's... `
-`...well,  `
+`...well, `
 `it's hard to imagine how they did something that awful. `
 `But that was the rose garden storehouse, right? `
 `I'm sure there were plenty of weird tools in there. `
@@ -166,7 +166,7 @@
 `The door was sealed by the lock and the chain. `
 `Naturally, the window was sealed too. `
 `How do you think a human could've killed my parents?" `
-`"...Well,  `
+`"...Well, `
 `...we did have to leave that trick alone during the story. `
 `Anyway, there's at least a good chance the culprit had a key. `
 `And it was possible to look in through the crack of the door that the chain allowed. `
@@ -224,9 +224,9 @@
 `But we didn't find any kind of weird device, did we?!" `
 `"...That is correct. `
 `Battler-sama, what kind of trap could I have been killed with...?" `
-`"Well,  `
+`"Well, `
 `...I don't know that. `
-`...But anyway, they must've used some kind of clever trap, or maybe someone's lying,  `
+`...But anyway, they must've used some kind of clever trap, or maybe someone's lying, `
 `...or what about this?! `
 `Kanon-kun, what if the whole thing was just you playacting?! `
 `Th-That's it, you were playacting!! `
@@ -234,7 +234,7 @@
 `They made the closed room themselves, and were only pretending to be dead!" `
 `".........Battler. `
 `.........Has your... head been... `
-`umm,  `
+`umm, `
 `...feeling okay...?" `
 `"...Umm, ...should I bring some cold drinks...?" `
 `"D-Don't look at me with those pitying eyes... I'm not saying something that crazy, right? `
@@ -313,7 +313,7 @@
 `...It was almost like a spoiled child who just doesn't want to accept something. `
 `The pitying gazes quietly closed in around Battler, but they didn't reach his stubborn heart. `
 `"...You realize that you're acting just like a spoiled brat throwing a tantrum, right?" `
-`"...Battler-sama,  `
+`"...Battler-sama, `
 `I understand your feelings, but..." `
 `"...Beatrice does 'exist'." `
 `"Battler-kun, ...why don't you believe? `
@@ -326,7 +326,7 @@
 `You just surrendered and gave up because you don't understand what happened! `
 `Isn't that right?!" `
 `"......Ki, hihihihihihihihihihihi. `
-`Well,  `
+`Well, `
 `...unsurprisingly, it looks like you alone won't believe no matter what, Battler. `
 `...If even a single person doesn't believe, the 'miracle' won't occur. `
 `...So, if you don't rethink your ignorant theories, the miracle...the magic won't be completed." `
@@ -373,7 +373,7 @@
 `...Most witches get tired of living after the first thousand years. `
 `How nice it is to meet a man with backbone such as yourself every once in a while." `
 `"...It is quite an honor to be present when Beatrice shows herself, Battler." `
-`"...Heh,  `
+`"...Heh, `
 `...heheheheh!! `
 `How... `
 `...astonishing. `
@@ -390,7 +390,7 @@
 `"...Your powers of comprehension aren't bad for a mere commoner who knows nothing of magic. `
 `...Yes, it seems you were born with a strong magic-resisting power. `
 `...You're a natural enemy of us witches. `
-`...No matter how much we turn your world upside down,  `
+`...No matter how much we turn your world upside down, `
 {i:you never believe in us.} `
 `{i:Therefore, the magic won't succeed}. `
 `...I accept that attitude of yours. `
@@ -421,7 +421,7 @@
 `Suddenly jumping right into the toughest part, are you? `
 `...Does that mean this is the trick you're proudest of? `
 `Miss {i:Real Culprit? `
-`With a shake of her golden pipe,  `
+`With a shake of her golden pipe, `
 `gentle, multi-colored smoke trailed out of the end. `
 `The smoke quickly obscured their surroundings, `
 `...and they were suddenly in the hallway of the mansion. `
@@ -493,7 +493,7 @@
 `"..................u... `
 `...gah `
 `..." `
-`"K-Kanon-kun,  `
+`"K-Kanon-kun, `
 `...Kanon-kun!! `
 `...D-Damn iiiiiiiiiit!!" `
 `Battler was the only one getting agitated. `
@@ -534,7 +534,7 @@
 `...A slight redness spread across the cheek Shannon was holding. `
 `It looked like that redness was causing Shannon unbearable pain... `
 `Her fingers were pressing in against her cheek, and drops of sweat appeared all over her body... `
-`"...Shannon,  `
+`"...Shannon, `
 `...Shannon...!! `
 `Hang in there...hang in there!" `
 `"What's going on?! `
@@ -545,7 +545,7 @@
 `Please believe in Beatrice‐sama...! `
 `I beg you...!! `
 `Aaaaaaah, because you won't believe, `
-`because you won't believe, aaaaaaaaaah,  `
+`because you won't believe, aaaaaaaaaah, `
 `...the magic is `
 `...the magic is dissolviiiiiiiing!!" `
 `For the first time in his life, ...Battler heard that sound, like a pomegranate splitting. `
@@ -565,21 +565,21 @@
 `about the nature of this strange death George and the rest were experiencing... `
 `Eventually, ...that redness reached the nearby Jessica as well... `
 `"Gah, `
-`...eeh,  `
-`...ack,  `
+`...eeh, `
+`...ack, `
 `......hh!!" `
 `"S-Stop it, stop it, stop it!!! `
 `What did Aniki do, `
 `what did Jessica do, `
 `just STOP IIIIIIIIIIIIIIIIIT!!!" `
 `"Ba‐ `
-`Battler,  `
+`Battler, `
 `...d- `
 `don't let the witch `
 `...break your spirit...! `
-`...Deny her,  `
+`...Deny her, `
 `erase her... `
-`...A-As long as at least one person denies her,  `
+`...A-As long as at least one person denies her, `
 `she's an illusion that can't exist...! `
 `Aaaaahhhh, gghhh!!" `
 `"A-Are you okay, Jessica?!! `
@@ -591,7 +591,7 @@
 `"............Uu. `
 `...Battler. `
 `......Quick, believe in Beatrice... `
-`...If you don't,  `
+`...If you don't, `
 `...everyone's magic... `
 `...will dissolve..." `
 `"M-Maria, it's all over your body, too...!!!" `
@@ -609,8 +609,8 @@
 `Battler, you won't... `
 `...won't... `
 `give in to the witch...! `
-`Geh,  `
-`ggghh,  `
+`Geh, `
+`ggghh, `
 `...gggggghhkkkkkkk!!!" `
 `"Jessica, Jessicaaaaaaa, gaaaaaaaaaaaaaaaaaaaaahhhhh!!" `
 `Poor Jessica met the same end. `

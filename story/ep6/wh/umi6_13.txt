@@ -1,4 +1,4 @@
-`"...So,  `
+`"...So, `
 `how is it, playing on the witch's side?" `
 `"It feels strange. `
 `......I used to think that the witch's side had such a huge advantage. `
@@ -54,7 +54,7 @@
 `"......What will happen to me...?" `
 `Beato was...uncertain. `
 `Even she was probably no more than a piece in this game. `
-`...If the game ended,  `
+`...If the game ended, `
 `then would she, one who had been born out of that game's rules, ...disappear...? `
 `"The game will probably disappear. `
 `...But now, I completely understand magic. `
@@ -113,7 +113,7 @@
 `If I do lose... `
 `...I'll give my strongest blessings to whichever of the lovers wins. `
 `So, I'll fight with all my heart and soul, `
-`...so that I have no lingering regrets,  `
+`...so that I have no lingering regrets, `
 `...and I'll win that miracle of magic. `
 `"How was it? `
 `How did the red and blue shootout over the first twilight go?" `
@@ -137,7 +137,7 @@
 `And, Krauss's group, the ones who had broken the rooms open, were not the culprits... `
 `...In this way, she had managed to win several little red truths like these. `
 `Normally, simply collecting such vital information would have been enough. `
-`However, the master witch, tired with boredom,  `
+`However, the master witch, tired with boredom, `
 `...had expected a much more flashy, argument-winning victory instead of this bland result. `
 `"H-However, ...this time, I don't have the detective's authority, so there's a chance I messed up when examining the corpses. `
 `S-So, if we suppose that a drug that mimics death was used to fool my examination, umm..." `
@@ -147,7 +147,7 @@
 `...Battler did not counter that with the red truth. `
 `In other words, my blue truth worked...! `
 `I-I think we've started with a victory." `
-`To sum up Erika's report,  `
+`To sum up Erika's report, `
 `all she had done was listen to the red truths Battler had wanted her to hear. `
 `Only the information Battler had wanted out there had been shown, and she hadn't been able to strike at any weak points. `
 `She was like a kid who had gone out shopping, then forgotten her job and only bought candy... `
@@ -183,7 +183,7 @@
 `If she had performed it with the detective's authority, she could've said with 100% certainty whether they were alive or dead. `
 `However, without the detective proclamation, it was 99%. `
 `...There was a 1% chance that she'd made a mistake, and that overturned the foundation of the examination. `
-`Erika had gained the detective's authority and had become the Witch of Truth  `
+`Erika had gained the detective's authority and had become the Witch of Truth `
 `because Bernkastel had supplemented her talent of 99 with an additional 1... `
 `Simply because Bernkastel wouldn't give her that 1, `
 `...in the world of witches, Erika's 99 was treated exactly the same as zero... `
@@ -252,9 +252,9 @@
 `...I will surely...show you that miracle...!" `
 `"Like `
 `hell you can, scum." `
-`"All you can do is thoroughly expose your wretched self in a horrible punishment game,  `
+`"All you can do is thoroughly expose your wretched self in a horrible punishment game, `
 `with your only weapon taken away from you, `
-`and through it all, you'll still roll over playfully  `
+`and through it all, you'll still roll over playfully `
 `and beg to keep me entertained, scum." `
 `"...Uu..." `
 `{a:c: `
@@ -284,7 +284,7 @@
 `"I know what you'd like to say. `
 `That wasn't a draw, `
 `we should have won easily, so it counts as a loss." `
-`"Hey,  `
+`"Hey, `
 `it's not polite to eavesdrop." `
 `"...Look at a mirror. `
 `It's written all over your faces." `
@@ -501,7 +501,7 @@
 `...That gives you a pretty big advantage. `
 `You won't have to waste tape on other rooms." `
 `"It seems you've grown quite arrogant since becoming Game Master. `
-`Isn't it fun  `
+`Isn't it fun `
 `to give out charity to your pathetic opponents?" `
 `"Quiet. `
 `And don't misunderstand. `
@@ -524,7 +524,7 @@
 `"...Thank you... `
 `...I'll...fight with all I've got... `
 `I'll come at you with all my strength, ...so...I'll defeat you no matter what... `
-`...So, if you do win against me,  `
+`...So, if you do win against me, `
 `...please crush me with all your strength. `
 `*hic*... `
 `...Please...don't leave...a scrap behind... `
@@ -545,7 +545,7 @@
 `Battler melted into the darkness, became a cloud of gold butterflies, and vanished... `
 `Erika remained behind, sobbing... `
 `...Uuuuu...*hic*... `
-`Just  `
+`Just `
 `kidding~ `
 `"Jeez you're a dim, stupid man. `
 `...You totally fell for it and gave me the tape... `
@@ -655,7 +655,7 @@
 `...In order for someone to win, someone else must be forced to lose. `
 `...It's the ruthless way of this world." `
 `"......Heh. `
-`...If only everyone  `
+`...If only everyone `
 `could be happy. `
 `...But there's no way an ideal world like that could exist." `
 `"No, there is!" `

@@ -43,11 +43,11 @@
 `Why is this happening? I just want to leave this creepy room right away... `
 `Just on the other side of this thin door, everything is bathed in a warm light... `
 `I can't undo it... I just can't undo this chain. `
-`The more desperate I grew,  `
+`The more desperate I grew, `
 `the more that unsettling darkness seemed to be closing in on my back, and the more frightened I became... `
 `...Then, I finally noticed. `
 `There's something...wrong with this chain. `
-`...Yes, there is a chain,  `
+`...Yes, there is a chain, `
 `...but this isn't a chain lock. `
 `This is just a chain staked into the door, preventing it from opening any further... `
 `In other words, it isn't made to be opened. `
@@ -62,8 +62,8 @@
 `Even though I could see the pleasant hallway through the crack, I had no chance of opening the door any further. `
 `Maybe someone will come if I yell... `
 `Maybe the door can be opened easily from the outside... `
-`When I thought this,  `
-`...I tried to call out to someone,  `
+`When I thought this, `
+`...I tried to call out to someone, `
 `...but I couldn't make the words come out. `
 `I could mouth 'someone, come here', `
 `but no voice left my lips. `
@@ -72,22 +72,22 @@
 `Why can't I cry out...?! `
 `Help me help me help me. `
 `The mere fact that I can't say "help me" out loud is even scarier. `
-`If I turn around,  `
+`If I turn around, `
 `...the witch gazing into the room from the darkness outside... `
 `...might be inside the room this time, standing right behind me... `
 `I'm frightened...I'm scared I'm scared I'm scared... `
 `Someone help me, someone help me... `
 `I can't get out...can't get out... `
 `Let me out...of this room... `
-`help me,  `
-`I'm scared  `
-`I'm scared  `
-`I'm scared,  `
-`let me out  `
-`let me out  `
-`let me out,  `
-`help me  `
-`help me  `
+`help me, `
+`I'm scared `
+`I'm scared `
+`I'm scared, `
+`let me out `
+`let me out `
+`let me out, `
+`help me `
+`help me `
 `help me... `
 `"It sounds like they've arrived, Lady." `
 `"Huh? `
@@ -121,7 +121,7 @@
 `Amakusa Juuza. `
 `The man who used to be my guard long ago. `
 `He's now the bodyguard Okonogi assigned to me. `
-`...In that case, ...is this after Aunt Eva's death,  `
+`...In that case, ...is this after Aunt Eva's death, `
 `...when I've thrown off my pursuers... `
 `...on that journey to find out what happened 12 years ago...? `
 `...Is that how it went...? `
@@ -167,14 +167,14 @@
 `Despite all of this, the author herself never appeared in public, and everything about her was wrapped in a veil of secrecy. `
 `However, just a few days ago, this author finally made a public appearance for a book signing, showing up with a mask that covered 'his' face and drawing even more public attention... `
 `...And yet, apparently even that had been a fake. `
-`Given this person's radically unconventional track record,  `
+`Given this person's radically unconventional track record, `
 `it was hardly a surprise to hear her casually insult her fans like this. `
 `"I know quite a lot about you too, Ushiromiya Ange-san. `
 `The talk shows have been saying all sorts of things..." `
 `"I'm sure you've heard nothing good." `
 `"Yes. `
 `Nothing good at all. `
-`Apparently, you employ and fire people on a whim,  `
+`Apparently, you employ and fire people on a whim, `
 `try to resolve everything with money, and care nothing for the law as long as you get your way." `
 `"Yep, sounds about right. `
 `Heheheh!" `
@@ -196,13 +196,13 @@
 `I was quite impressed. `
 `In fact, I was so impressed, I decided to let you meet me in person. `
 `...Welcome to my mansion, child of man." `
-`Her manner of speaking was extremely condescending,  `
+`Her manner of speaking was extremely condescending, `
 `but, perhaps because of her elegant manner, it didn't feel particularly irritating. `
 `This person had a sort of majestic grandeur about her which made that style of speech seem almost natural. `
 `...At least, that's how it felt to me. `
-`...In fact, it felt almost as though this was the manifestation of some noble being,  `
+`...In fact, it felt almost as though this was the manifestation of some noble being, `
 `who would have no need to show herself before mere Humans under normal circumstances. `
-`Since I'm not particularly a fan of hers,  `
+`Since I'm not particularly a fan of hers, `
 `I guess this is proof that her mysterious charisma really is nothing to be laughed at... `
 `However, I didn't come here to talk to Hachijo Tohya, the mystery novelist. `
 `...I'm interested in Itouikukuro {ruby:0576:Reigonamu}, 
@@ -210,14 +210,14 @@
 `Around the Japanese parts of the Internet, Itouikukuro is an extremely famous Witch Hunter. `
 `However, she isn't a big opinion leader like Professor Ootsuki. `
 `She's one of those 'Message Bottle Forgers', who are always the center of vigorous debate... `
-`Message Bottle Forgers are, as the name suggests,  `
+`Message Bottle Forgers are, as the name suggests, `
 `people who forge and post the contents of what purport to be mysterious message bottles detailing the events of the Rokkenjima incident. `
 `They claim to have discovered a new message bottle... `
 `and post either a very similar counterfeit story or a new theory with their own interpretation of the truth, all of which are supposedly written by Ushiromiya Maria. `
 `In so doing, they openly take on the name 'Ushiromiya Maria', `
 `writing up new bizarre tales as if they'd been present themselves and knew the truth. `
 `They then send these stories out into the newest sea discovered by Humankind--the Internet--claiming that it's a third or fourth message bottle... `
-`All of the first Forgers were either simple pranksters  `
+`All of the first Forgers were either simple pranksters `
 `or crooks trying to swindle collectors. `
 `Eventually though, people who claimed to have solved the riddles of the message bottle tales and reached the 'truth' started to appear, `
 `and they started creating original works of their own, third and fourth message bottles from Ushiromiya Maria, as though they had moved over to the riddle-teller's side. `
@@ -227,7 +227,7 @@
 `Though they claimed to have reached the truth, they refused to tell anyone and created fake message bottles as though testing everyone else. `
 `It was no surprise that more straight-laced Witch Hunters were seriously annoyed by these Forgers... `
 `However, among those who simply liked to entertain themselves with the occult fantasy of Rokkenjima, `
-`an extremely small number accepted these creations as literary works,  `
+`an extremely small number accepted these creations as literary works, `
 `glad of these additions to the mysterious tale... `
 `Itouikukuro was the most highly regarded of these Forgers. `
 `"...<End of the Golden Witch>. `
@@ -241,7 +241,7 @@
 `Of course I want to complain. `
 `However, all of her works are known for being, in both form and level of perfection, `
 `the closest tales to those written by 'Ushiromiya Maria' herself. `
-`In particular, Itouikukuro's first forgery, 'Banquet of the Golden Witch',  `
+`In particular, Itouikukuro's first forgery, 'Banquet of the Golden Witch', `
 `managed to fit everything, including Ushiromiya Eva's escape to Kuwadorian. `
 `People wondered whether this might be the true story of Rokkenjima, and it even made it onto the talk shows... `
 `So far, all of these tales have been nothing more than electronic text on the web. `
@@ -296,7 +296,7 @@
 `'And yet it moves.' `
 `"...So, you're saying the truth is still the truth whether you can prove it or not...?" `
 `"Correct. `
-`In the future,  `
+`In the future, `
 `when the full truth finally becomes known, `
 `people will look back and realize that I had already discovered it." `
 `Apparently, Ange just couldn't stand Hachijo's attitude. `
@@ -340,9 +340,9 @@
 `Wasn't that... `
 `...today...? `
 `What...am I talking about...? `
-`I mean,  `
-`...didn't I go to Niijima,  `
-`...meet Captain Kawabata,  `
+`I mean, `
+`...didn't I go to Niijima, `
+`...meet Captain Kawabata, `
 `...and, inside the bed shop... `
 `...huh? `
 `......What...? `
@@ -353,7 +353,7 @@
 `"...N- `
 `No, it's nothing." `
 `Strange memories, ...ones that even I can't understand... `
-`I tried to hide my confusion,  `
+`I tried to hide my confusion, `
 `......but for some reason, Hachijo had a strange glint in her eyes, ...as though she could read my mind. `
 `"I have revived and killed your family several times within various forgeries. `
 `...Almost like a witch might." `
@@ -388,7 +388,7 @@
 `But in the end, I never got a chance to meet her. `
 `In other words, all of this is a falsehood. `
 `"Whose piece am I this time? `
-`...Sorry, but if you think you can tame Ushiromiya Ange so easily,  `
+`...Sorry, but if you think you can tame Ushiromiya Ange so easily, `
 `you're making a big mistake." `
 `"...Pfft. `
 `...*giggle*giggle*... `
@@ -398,7 +398,7 @@
 `Gradually, the space around them seemed to be filled with a strange purple mist... `
 `The room itself seemed to twist and bend... `
 `Her figure also twisted... `
-`and after something that couldn't be described elapsed, her form changed to become just what she had called herself,  `
+`and after something that couldn't be described elapsed, her form changed to become just what she had called herself, `
 `...a witch. `
 `"Splendid. `
 `You did well to see through my veil..." `
@@ -427,14 +427,14 @@
 `Don't tell me you want me to read this new story or whatever it is you've written." `
 `"That's it exactly. `
 `...I do not want you to be my piece. `
-`I have always been a mere observer,  `
+`I have always been a mere observer, `
 `and I have no intention of sticking my neck into their game..." `
 `"...I don't get it. `
 `What is it you want from me?" `
 `"Be an observer for me. An observer of the Fragments Beatrice has woven." `
 `"An observer...? `
 `I don't really get it, but no deal." `
-`"In the past,  `
+`"In the past, `
 `I observed the Fragments through Battler's eyes. `
 `...However, now that he has succeeded the position of Game Master, he is not a suitable observer. `
 `I am following this tale with true and earnest intentions. `
@@ -448,12 +448,12 @@
 `...Furthermore, I wish to search for the truth Battler reached as part of my own mental journey. `
 `......My illness affects me gravely. `
 `If I do not think, I cannot even keep my heart beating..." `
-`"......So,  `
+`"......So, `
 `...you want me to read your new picture book aloud to you...?" `
 `"You might as well interpret it that way. `
 `In exchange, you will also be able to take part in your own journey of the mind. `
 `I do believe that even you have yet to reach the truth. `
-`......I think you want to continue  `
+`......I think you want to continue `
 `on the journey to find that truth." `
 `"I don't owe you anything." `
 `"Do not push your luck. `
@@ -474,17 +474,17 @@
 `And in exchange, you'll let me read it too. `
 `...Is that right?" `
 `"Precisely. `
-`...If you are willing to accept,  `
+`...If you are willing to accept, `
 `I shall ask that you become my Reader for a time." `
 `"Well, it's nice to get my own title, but all you really want me to do is read books, right?" `
 `"Becoming my Reader means the same as becoming my familiar. `
 `...In other words, what is done against you will be done against me. `
 `I will not permit anyone to disrupt my only interest, that being to read the rest of Beatrice's tale. `
-`...I will not let Bernkastel, Lambdadelta,  `
+`...I will not let Bernkastel, Lambdadelta, `
 `or even Beatrice force anything upon you..." `
 `This witch, who seemed to have an almost divine quality to her, spoke both quietly and forcefully... `
 `There was no threat in her words. `
-`...However, even so,  `
+`...However, even so, `
 `it was clear that she was on a different level than Bernkastel and the other witches, and not at all to be taken lightly. `
 `"So, you'll offer me protection if I agree to read your book...?" `
 `"Of course. `
@@ -515,7 +515,7 @@
 `No, it was immensely good fortune. `
 `"...From this point forth, Ushiromiya Ange will serve as Reader and {c:86EF8C:miko} `
 `to the Witch of Theatergoing, Featherine Augustus Aurora. `
-`Until you finish reading,  `
+`Until you finish reading, `
 `I shall bring calamity to all who attempt to hinder your task." `
 `When the Witch of Theatergoing, Featherine, spoke this, ...Ange was wrapped in a bright light. `
 `Ange didn't feel any particular change herself, `

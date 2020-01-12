@@ -52,7 +52,7 @@
 `...And in fact, if she did meet him, she would probably be blamed somehow and insulted. `
 `But this was no time to be frightened. `
 `......As his true daughter, she had to make him aware of the current situation. `
-`"...Kumasawa-san,  `
+`"...Kumasawa-san, `
 `I'm going to see Father. `
 `...Take special care of George-kun and Battler-kun. `
 `...I'm sure they're on edge right now." `
@@ -117,7 +117,7 @@
 `Me too. `
 `......And that's even putting aside whether the culprit's that mystery guest or not." `
 `"Indeed. `
-`...We've naturally suspected the mysterious guest who calls herself Beatrice,  `
+`...We've naturally suspected the mysterious guest who calls herself Beatrice, `
 `but we still cannot be certain she is the culprit. `
 `...There is still the possibility she's a {i:victim whose corpse still hasn't been found}. `
 `"...When I think of it that way, there's something I just can't understand." `
@@ -130,7 +130,7 @@
 `"...I see. `
 `...So, there was no need to draw that creepy magic circle on the entrance to the chapel and show off the fact that the corpses were there." `
 `"Yeah, that's it. `
-`And, if they were able to take the time and effort to do something so horrible to those six people,  `
+`And, if they were able to take the time and effort to do something so horrible to those six people, `
 `it should've been possible for them to hide the six corpses where they'd be impossible to find." `
 `"I agree. That brutal Halloween party probably wasn't directed at those who died. `
 `...It was directed at the people who would eventually discover it, us. `
@@ -155,7 +155,7 @@
 `That is not yet certain..." `
 `"But unfortunately, we can't deny that the possibility exists. Ihihi. `
 `...This letter was in the chapel. `
-`According to this, the culprit is the witch,  `
+`According to this, the culprit is the witch, `
 `and if we don't solve the riddle of Grandfather's epitaph and find the gold, they'll massacre the whole family, ...or something like that." `
 `"Is that true...?! `
 `Umm, would you allow me to read it as well...?" `
@@ -194,7 +194,7 @@
 `"...That is correct. `
 `I believe Kinzo-san showed the president of Marusoo a mountain of gold and let him take one bar back with him, or so the story goes." `
 `"That one bar came to be in Krauss-sama's possession. `
-`And, he said that  `
+`And, he said that `
 `no other gold supporting the Master's Legend of the Gold existed..." `
 `"You're talking about Uncle Krauss here? `
 `So what does that mean? `
@@ -539,7 +539,7 @@
 `It wasn't me, not me! `
 `No, I could never do such a thing!" `
 `"...Kumasawa-san got up late. `
-`After we returned from the chapel to the parlor, we did meet you there,  `
+`After we returned from the chapel to the parlor, we did meet you there, `
 `but it's impossible to prove where you were and what you were doing until that time. `
 `You watched us from the shadows, chased after Jessica-chan and Kanon-kun when they were isolated, and stealthily attacked them." `
 `"A‐are you saying that I visited Milady's roo `, `
@@ -620,7 +620,7 @@
 `"......Yeah, isn't that right? `
 `...Jessica-chan might also let Shannon-chan into her room. `
 `You were supposedly with Father. `
-`......But in reality,  `
+`......But in reality, `
 `...could you be the culprit......?" `
 `"...Sh-Shannon couldn't be the culprit! `
 `Didn't you just say she was doing some important work with Grandfather?!" `
@@ -640,7 +640,7 @@
 `Then I'll give you mine." `
 `"Of course, I can't deny the possibility that Kanon-kun's a victim without a corpse. `
 `But until we find that corpse, I certainly can't rule Kanon-kun out as a suspect. `
-`...There's a chance he'll suddenly appear again,  `
+`...There's a chance he'll suddenly appear again, `
 `claiming to have been attacked by the culprit and confined somewhere." `
 `"But take care. `
 `Most likely...no, there's no doubt about it. `
@@ -721,7 +721,7 @@
 `...With that kind of money, you could play around for the rest of your life in any country. `
 `...And with a motivation like that, they might even intend to kill all of us." `
 `"........." `
-`"Because she didn't have a master key, the 19th person,  `
+`"Because she didn't have a master key, the 19th person, `
 `the guest Beatrice, is removed from suspicion for the murder of Jessica-chan alone. `
 `But we cannot conclude that she's unrelated to the crime. `
 `...After all, it's a vast amount of gold we're talking about. `
@@ -745,12 +745,12 @@
 `...In other words, from the time they're born, trusting each other is genetically imprinted on them. `
 `...It's...unpleasant to go against that. `
 `They never want to suspect someone. `
-`...But if they're forced to suspect someone,  `
+`...But if they're forced to suspect someone, `
 `...they find it safest to choose someone who isn't present at that moment. `
 `For the purpose of safety and nothing more, they half-heartedly chose Kanon to be the sacrifice. `
 `That's ridiculous...... `
 `I definitely don't want to believe that Kanon-kun is the culprit! `
-`I'd heard it from George-aniki just now, but not only were those two close in age,  `
+`I'd heard it from George-aniki just now, but not only were those two close in age, `
 `they also had that kind of adolescent relationship Aunt Rosa had mentioned. `
 `...It may be a little late now, but yes, they really did have that kind of air about them. `
 `After seeing her parents' tragic corpses, Jessica, bearing deep wounds in her heart, would only have trusted Kanon-kun. `
@@ -764,8 +764,8 @@
 `As long as we cannot prove Kanon-kun's innocence, we will assume that Kanon-kun is the culprit who killed Jessica-chan!!" `
 `That was Aunt Rosa's claim. `
 `By using the vague word 'assume', ...she managed to convince everyone in the end. `
-`Everyone nodded weakly,  `
-`......and, with the excuse that they were just assuming it for the time being,  `
+`Everyone nodded weakly, `
+`......and, with the excuse that they were just assuming it for the time being, `
 `......they 'concluded' that Kanon was the culprit who had killed Jessica... `
 `......I wonder what the dead Jessica and Kanon would think if they could hear this exchange. `
 `Jessica...was crying. `
@@ -780,14 +780,14 @@
 `Then, ...that witch erased the corpse for fun...! `
 `For them to call you the culprit after that...it's horrible, it's too horrible!!" `
 `"...It's okay. `
-`...I wasn't able to protect you in the end,  `
+`...I wasn't able to protect you in the end, `
 `......but I was able to be of use to you in our final minutes..." `
 `"...Why doesn't everyone understand that?! `
 `Stop it, Aunt Rosa!! `
 `Don't call Kanon-kun the culprit with that messed up logic!!" `
 `"......She isn't saying I'm the culprit. `
 `...She's just saying I'm suspicious... `
-`no,  `
+`no, `
 `...she's saying to be careful." `
 `"She {i:is} saying it!! `
 `These people are saying you're the culprit so they can stop thinking! `
@@ -915,7 +915,7 @@
 `But I don't really understand! `
 `Could you explain it, Battler-kun?!" `
 `"...That's right. `
-`When Jessica unlocked the VIP room,  `
+`When Jessica unlocked the VIP room, `
 she borrowed the key from Kanon-kun, {i:but didn't give it back}! `
 `So Kanon-kun doesn't have a master key on him!!" `
 `"*cackle*cackle*! `
@@ -1002,7 +1002,7 @@ she borrowed the key from Kanon-kun, {i:but didn't give it back}! `
 `{p:1:This door is the only way in or out}. `
 `{p:1:The only way to lock this door is with Jessica's single key or the master keys, only one of which is held by each servant}." `
 `It is on the second floor, but it is probably possible to enter or leave through the window. `
-`However,  `
+`However, `
 `{p:1:the window is locked from the inside}." `
 `"...I can spin the chessboard around already. `
 `...If I start by arguing about the door and the lock, I'll probably be stuck dancing on the palm of your hand." `
@@ -1094,7 +1094,7 @@ she borrowed the key from Kanon-kun, {i:but didn't give it back}! `
 `If that theory's right, then the question becomes who could've stolen the key from her handbag. `
 `...Maria's handbag was probably most unguarded while she slept. `
 `......In that case, `
-`......in addition to me,  `
+`......in addition to me, `
 `...George-aniki and Jessica are also suspects. `
 `So George-aniki or Jessica is the culprit? `
 `Or maybe an accomplice?! `
@@ -1104,12 +1104,12 @@ she borrowed the key from Kanon-kun, {i:but didn't give it back}! `
 `...And yet, one among us...was lying?! `
 `"...*cackle*cackle* `
 `That theory of yours about taking the key out of the handbag and putting it back cast a pronounced suspicion on the cousins, did it not...? `
-`And despite that, you acted like you didn't even notice,  `
+`And despite that, you acted like you didn't even notice, `
 `announcing a theory like that so happily...! `
 `*giggle*giggle*giggle*" `
 `"......D-Damn it... `
 `That doesn't guarantee that one of the family or the servants is the culprit! `
-`If you snuck up on us while hiding in a cardboard box, for example,  `
+`If you snuck up on us while hiding in a cardboard box, for example, `
 `there's a good chance you could've slunk into our room when we were fast asleep and stolen the key, right?!" `
 `"Hmmmmmm. `
 `Perhaps that will do for that situation. `
@@ -1135,7 +1135,7 @@ she borrowed the key from Kanon-kun, {i:but didn't give it back}! `
 `This is a closed room born from your mental contradiction. `
 `*cackle*cackle*! `
 `You, and no one else, sealed that door." `
-`"...So you're trying to say that I've got two options:  `
+`"...So you're trying to say that I've got two options: `
 `...accept that a witch opened it with magic, or accept that someone I know is the culprit. `
 `Damn, are you trying to fork the rook?!" `
 `"I just wanted to show you that moves such as this can exist as well." `
@@ -1151,7 +1151,7 @@ she borrowed the key from Kanon-kun, {i:but didn't give it back}! `
 `I can't think of Kumasawa-san as the culprit!! `
 `But I won't accept you!! `
 `No matter what!!" `
-`"In that case, they'd have to enter the room without using magic or a master key,  `
+`"In that case, they'd have to enter the room without using magic or a master key, `
 `kill Jessica and Kanon, and even erase Kanon's corpse without using magic." `
 `"...How could it be done?! `
 `How could it be done so that you can deny me, while still not suspecting anyone else?!! `
@@ -1163,7 +1163,7 @@ she borrowed the key from Kanon-kun, {i:but didn't give it back}! `
 `I was able to prove that Kanon-kun couldn't have locked this door. `
 `...But that doesn't mean I've managed to figure out who killed Jessica." `
 `"...N-No, ...that's more than enough... `
-`Umm, ...for Kanon-kun's sake,  `
+`Umm, ...for Kanon-kun's sake, `
 `...thank you very much...!" `
 `"...No need to thank me. `
 `After all, ...this means you're under suspicion too, Shannon-chan." `

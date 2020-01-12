@@ -78,7 +78,7 @@
 `After finding the corpses, they'd been overcome by rage and barged in here, only to find no one, so of course the witch would mock them. `
 `...You can't mock someone unless they know they're being mocked. `
 `So, in other words, ...that's what this must be...! `
-`"...Milady,  `
+`"...Milady, `
 `......there's something written here." `
 `"Something written? What?!" `
 `Jessica dashed over and violently snatched the piece of paper away. `
@@ -122,7 +122,7 @@
 `...But Kanon's eyes saw it differently. `
 `Those were probably...tears of sadness, hidden by rage... `
 `So... `
-`When the light stand was taken from Jessica,  `
+`When the light stand was taken from Jessica, `
 `when she started crying on the floor, scratching at the carpet almost as though she was groveling... `
 `...Gohda was surprised, but Kanon was not. `
 `...Of course. She had lost her means of crying by lashing out in rage. `
@@ -138,7 +138,7 @@
 `Both Dad and Mom were smart!! `
 `Unlike me, they were really smart!! `
 `Don't you call them morons! `
-`Take it back,  `
+`Take it back, `
 `take it back!!" `
 `Oh right, I saw them, and they looked just as moronic as you. `
 `Now, their bellies are full in the land of sweets!! `
@@ -208,7 +208,7 @@
 `...He definitely heard it. `
 `...Kanon definitely heard that voiceless call for help, one shared by miserable grievers the world round, ...an endless scream that no one ever seems to hear. `
 `Kanon quietly knelt by Jessica's side and wordlessly offered her a shoulder. `
-`...Though Jessica kept coughing painfully, she accepted it,  `
+`...Though Jessica kept coughing painfully, she accepted it, `
 `......unlocked the door to her room, and entered... `
 `"......This way. `
 `......I'll prepare your medicine right away." `
@@ -232,7 +232,7 @@
 `...Milady?" `
 `"............I'm... `
 `...all right... `
-`......I'm all messed up over Mom and Dad,  `
+`......I'm all messed up over Mom and Dad, `
 `......but... `
 `after I cry a bit more... `
 `...I'll be all right......" `
@@ -290,7 +290,7 @@
 `It was still pouring outside...a dark, gray world. `
 `...Even on days like this, Shannon would surely see the ocean and know that it was blue. `
 `...But to my eyes, even if it cleared up, I would only see gray... `
-`Until I can understand the blue of the ocean,  `
+`Until I can understand the blue of the ocean, `
 `...I'll be nothing but furniture imitating a person...... `
 `".........You really don't understand a woman's heart, do you? `
 `...At times like that, you ought to silently remain by her side. `
@@ -367,8 +367,8 @@
 `...It's countless golden butterflies, Beatrice's minions!! `
 `Jessica was surrounded by countless butterflies, waving her hands around, trying frantically to drive them away. `
 `"Milady!!!" `
-`"K-Kanon-kun,  `
-`...h-help...  `
+`"K-Kanon-kun, `
+`...h-help... `
 `...*cough*cough*cough*cough*!!" `
 `Kanon rushed towards Jessica and violently brushed the cloud of butterflies away. `
 `...The butterflies, which were sickening despite their beauty, surrounded Jessica's face, trying to crawl in through her mouth and nose. `
@@ -377,7 +377,7 @@
 `But when Kanon ran towards her, the butterflies stopped attacking and began to dance an elegant rondo around the pair. `
 `"......Kanon-kun, ...Kanon-kun......" `
 `"...It's okay. `
-`......While there's still life in me,  `
+`......While there's still life in me, `
 `...I won't let anyone lay a finger on you. `
 `......Come out, Beatrice!! `
 `Are you happy now?!!" `
@@ -391,7 +391,7 @@
 `Now, you're carp on the chopping board. `
 `No, since we've got a pair of you, should I call it {c:86EF9C:duck with green onions}? `
 `Hahahahahahahahahahahahahahaha!!" `
-`"...Y-You,  `
+`"...Y-You, `
 `...B-Beatrice...!!" `
 `"Please, stand back. `
 `...I'll protect you, Milady...!" `
@@ -422,7 +422,7 @@
 `And apparently, the witch had already given it the order. `
 `She was looking at Kanon with an expectant gaze. `
 `...She looked at him with an expectant and therefore challenging gaze, as though asking him how he intended to protect this maiden! `
-`Though the attendant had looked especially bestial while crawling to its feet,  `
+`Though the attendant had looked especially bestial while crawling to its feet, `
 `you could see in the way it carried itself that it possessed more than enough grace to be worthy of serving the Golden Witch. `
 `...And you could tell that it was overflowing with the joy of furniture wanting to meet its master's expectations. `
 `"......Well then, why don't you show me? `
@@ -454,7 +454,7 @@
 `"...Beautiful. `
 `...At least when it comes to giving birth to furniture, Kinzo might even reach up as far as my feet." `
 `"...A thing like this...can't even be used to trim the roses." `
-`".........K-Kanon-kun,  `
+`".........K-Kanon-kun, `
 `.........what's......" `
 `"......I didn't want...to show you." `
 `"So, you've taken it out. `
@@ -471,7 +471,7 @@
 `If you throw a rock at the surface of the water, you might be able to disturb the moon's image for some time. `
 `...But that doesn't mean the moon has been smashed. `
 `"So. `
-`...Until this life of mine is over,  `
+`...Until this life of mine is over, `
 `...I'll keep on striking your reflection...!" `
 `"I like it, Kanon!! `
 `Begin, furniture!!" `
@@ -557,7 +557,7 @@
 `Now, I shall sacrifice 'the two who are close', who have acknowledged each other's dignity." `
 `"Well then, arise, forgive the sin, ...one of the Seven Stakes of Purgatory, Lust!!!" `
 `The witch summoned her furniture with a mixture of laughter and anger on her face. `
-`"...Asmodeus of Lust,  `
+`"...Asmodeus of Lust, `
 `right here." `
 `"I've had enough of this farce. `
 `Quickly, execute the second twilight. `
@@ -612,7 +612,7 @@
 `How truly enjoyable!! `
 `That's enough, die, die, make me laugh!!" `
 `"Come, arise, forgive the sin, `
-`one of the Seven Stakes of Purgatory,  `
+`one of the Seven Stakes of Purgatory, `
 `Wrath!!" `
 `"...Satan of Wrath, `
 `right here." `
@@ -630,7 +630,7 @@
 `"Ghh......!!" `
 `There was no way to block it. `
 ``The sound of a woodpecker filled the entire room, `
-`...and before he could blink,  `
+`...and before he could blink, `
 `...it was already right in the center of his chest... `
 `When you take a piece in chess, the rules say that it's impossible for your opponent's piece to defend itself. `
 `So this was an obvious result, in accordance with the rules. `
@@ -645,7 +645,7 @@
 `...You were really...cool..." `
 `Kanon finally fell over. `
 `...He landed next to Jessica, and the two lay there like the constellation Gemini. `
-`"...You know, Kanon-kun,  `
+`"...You know, Kanon-kun, `
 `......you aren't...furniture anymore..." `
 `"...Yes. `
 `......I was... `
@@ -656,12 +656,12 @@
 `"...My... `
 `...real name is... `
 `... `
-`...Ah,  `
+`...Ah, `
 `......aaaaaaaaah...ah..." `
 `In his last moments, Kanon wanted to tell her his real name. `
 `...But...Jessica had already fallen into a sleep from which she would never wake... `
 `So, Kanon's real name, which he had protected until today... `
-`......In the end,  `
+`......In the end, `
 `...he couldn't...tell it to Jessica... `
 `".........I... `
 `......became... `

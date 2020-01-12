@@ -30,8 +30,9 @@ if not os.path.exists("script_fixup.txt"):
                 f"{filename}:{line_number}: {line[0].strip()} -> {line[1].strip()}",
                 file=ffile,
             )
-    print("Please edit script_fixup.txt and edit the needed fixes.")
+    print("Please edit script_fixup.txt and adjust the needed fixes.")
 else:
+    print("Fixing lines from script_fixup.txt...")
     fix_lines = open("script_fixup.txt", encoding="utf-8").readlines()
     fixes_applied = [x.split(":", 2) for x in fix_lines]
     for fix in fixes_applied:
@@ -49,3 +50,8 @@ else:
         except:
             pass
     os.remove("script_fixup.txt")
+    print("Adjusting spaces...")
+    for tled_file in glob.glob(f"{ep}/wh/*.txt"):
+        lines = open(tled_file, encoding="utf-8").readlines()
+        lines = [re.sub(r"\s*`$", " `", re.sub(r"^`\s+", "`", x)) for x in lines]
+        open(tled_file, "w", encoding="utf-8").writelines(lines)

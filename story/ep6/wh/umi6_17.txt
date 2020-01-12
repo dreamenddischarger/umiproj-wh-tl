@@ -55,7 +55,7 @@
 `"This is love's truth." `
 `"......What is...?!!" `
 `"Normally, love needs nothing more than two people who love each other." `
-`"Therefore, when there aren't 'two people',  `
+`"Therefore, when there aren't 'two people', `
 `...we must use a duel to make that number become 'two'." `
 `"I could understand if it were a duel between two people fighting over one woman! `
 `If it were a duel to cut three people in love down to two...!! `
@@ -126,7 +126,7 @@
 `"......I guess it'll repeat until it's all settled..." `
 `"Zepar, `
 `...have you seen this sort of duel many times in the past?" `
-`"Of course,  `
+`"Of course, `
 `I've seen many of them." `
 `"...Usually, how many times do they need to face off before it's over?" `
 `"In almost all cases, it's decided in the first round." `
@@ -141,15 +141,15 @@
 `"One." `
 `"Two." `
 `""Three."" `
-`In the golden rose garden,  `
-`...when the number three was yelled,  `
+`In the golden rose garden, `
+`...when the number three was yelled, `
 `...the sound of gunfire rang out once... `
 `Even the people watching couldn't tell whether that was a single gun firing... `
 `or the sound of both going off at the same time... `
-`In the midst of the stench of gunpowder and white smoke,  `
-`...there, with gun raised and smoke trailing the barrel,  `
+`In the midst of the stench of gunpowder and white smoke, `
+`...there, with gun raised and smoke trailing the barrel, `
 `...was Kanon. `
-`......And, lying on the earth,  `
+`......And, lying on the earth, `
 `...was Shannon... `
 `"...Sh- `
 `Shannon... `
@@ -158,7 +158,7 @@
 `...Shannon fell before the gun fired..." `
 `"Nn...gah......" `
 `Jessica's distressed expression...was enough to explain what had happened... `
-`...Slowly,  `
+`...Slowly, `
 `...Shannon... `
 `...stood up. `
 `There was no bullet wound anywhere on her body. `
@@ -189,7 +189,7 @@
 `She planned on cautiously closing the gap until she reached a distance from which she could hit with even more certain accuracy. `
 `And Kanon......had already lost any means of fighting back. `
 `He could only try to dodge Shannon's bullet...and place his bet on the second round. `
-`......If they both thought this,  `
+`......If they both thought this, `
 `...then what happened next would turn that assumption on its head. `
 `".........!!" `
 `"This isn't...over yet!!!" `
@@ -322,7 +322,7 @@
 `You will become a single person." `
 `""Gather, incomplete souls...!! `
 `Become one and know love...!!"" `
-`When Zepar and Furfur faced the heavens and yelled,  `
+`When Zepar and Furfur faced the heavens and yelled, `
 `...the miracle of love... `
 `...gathered the souls around Shannon. `
 `They came from the losers of the trial. `
@@ -352,7 +352,7 @@
 `why I started to love him." `
 `"...Wh-Whaat?! `
 `Why are you saying this now...?!!" `
-`"...After all,  `
+`"...After all, `
 `...when I was born, `
 `......I was told to love Battler-san and be loved by him... `
 `...That was my purpose. `
@@ -382,7 +382,7 @@
 `Huh? `
 `What would she look like? `
 `Can't say I care much either way. `
-`Well, if she did happen to be a glamorous woman, blonde and bouncy with blue eyes like in Western films,  `
+`Well, if she did happen to be a glamorous woman, blonde and bouncy with blue eyes like in Western films, `
 `ihhihihihihihi, that'd be awesome. `
 `I'd love to rub those boobs. `
 `Wahahahahahaha...!" `
@@ -397,7 +397,7 @@
 `{n}And then, if possible, you must be loved by him.} `
 `{a:c:I...can no longer love him. `
 `{n}Please, take my feelings that went unfulfilled, `
-`{n} ...my feelings that I couldn't hold back,  `
+`{n} ...my feelings that I couldn't hold back, `
 `{n}...and make my wish come true.} `
 `{a:c:From this day forward, you are no longer the Rokkenjima ghost that lives only to play pranks.} `
 `{a:c:From this day forward, you will become the master of this island and wait for the day that he comes to fulfill his promise.} `
@@ -426,7 +426,7 @@
 `"......Yoshiya...kun......" `
 `"...A- `
 `Are we... `
-`...dre...  `
+`...dre... `
 `dreaming...?" `
 `"...I-Insane... `
 `What kind of joke is this...?? Well?!" `
@@ -451,7 +451,7 @@
 `Where did he go?! `
 `Where's Yoshiya-kun?! `
 `Yoshiya-kun, Yoshiya-kuuuuuuuuuuun!!!!" `
-`"......So long,  `
+`"......So long, `
 `Milady. `
 `...No, ......Jessica." `
 `"...Kanon-san..." `
@@ -469,7 +469,7 @@
 `"......What will you do now?" `
 `"Though I have lost my form, `
 `...though I can no longer talk to her, `
-`...and even though if Jessica ever talks to me,  `
+`...and even though if Jessica ever talks to me, `
 `...I can do nothing except nod behind her back, `
 `...I will be by her side." `
 `"...... `

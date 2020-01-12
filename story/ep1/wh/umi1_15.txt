@@ -110,7 +110,7 @@
 `...I'll bet this is all a pretty happy situation for you, since you're always going on about how witches exist, but keep that to yourself for now. `
 `Don't try to force that on other people." `
 `"Uu-." `
-`"I-I know I've been creeped out by this girl for a while now,  `
+`"I-I know I've been creeped out by this girl for a while now, `
 `...but there really is something wrong with her!! `
 `Don't you think so too, Battler, Genji-san?! `
 `Kumasawa-san?! `
@@ -133,7 +133,7 @@
 `...How many people have already died? `
 `Six people in Dad's group. `
 `After that, both Aunt Eva and Uncle Hideyoshi, Kanon-kun, Grandfather... `
-`......There were a whole 18 people on this island, supposedly,  `
+`......There were a whole 18 people on this island, supposedly, `
 `...and 10 of those people have been killed. `
 `That's more than half of us. `
 `...And right now, there's absolutely no proof that the remaining eight people will be safe... `
@@ -187,7 +187,7 @@
 `"......If I may, `
 `I do know of just one place that cannot be entered, even with the servant key rings." `
 `"Where is that?" `
-`"...That would be  `
+`"...That would be `
 `the Master's study." `
 `"I-I'm against this!! `
 `I don't even wanna think about going in Grandfather's creepy room!" `
@@ -197,7 +197,7 @@
 `The other was held by the Master himself, but just now, I found this on the corpse in the boiler room..." `
 `Genji-san took a handkerchief out of his pocket and opened it, showing us the burnt and filthy study key. `
 `Then, he showed it alongside his own key, which he had once lent to Natsuhi. `
-`"...Normally, it would have been proper to leave the Master's key for the police,  `
+`"...Normally, it would have been proper to leave the Master's key for the police, `
 `...but because of the Master's orders to protect the safety of the study, I borrowed it for the time being." `
 `"......I see... `
 `Which means that Kinzo-san's study is the only place where we can be safe..." `
@@ -253,15 +253,15 @@
 `...A while back, I proposed that strange theory as a stopgap measure. `
 `But just as Aunt Eva said, even though that trick would be possible, `
 `I couldn't explain what motive could've made Grandfather sneak out of his own study in such a troublesome way. `
-`Plus, Grandfather couldn't even have used that trick unless he  `
+`Plus, Grandfather couldn't even have used that trick unless he `
 `'knew that the receipt was wedged in the door'. `
-`Aunt Eva hadn't pointed out that last part,  `
+`Aunt Eva hadn't pointed out that last part, `
 `...but it's clear how absurd the theory was. `
 `So, does that mean the sealed door formed a closed room, just as Aunt Eva claimed? `
 `Is it an undeniable fact that Aunt Natsuhi was the culprit...? `
 `......If Aunt Eva were here now, she'd probably make that claim openly and blow my strange theory away. `
 `...But anyway. `
-`I had to admit that a room with both a bed and a toilet, that all eight people could be shut up in,  `
+`I had to admit that a room with both a bed and a toilet, that all eight people could be shut up in, `
 `...and with only two keys, both of which were gathered here, ...had to be the safest place in the mansion right now... `
 `At the very least, I figured this would be better than just staying shut up in the parlor and hoping nothing would go wrong. `
 `But wait, ...have we been safe only because we've been shut up in the parlor? `
@@ -331,12 +331,12 @@
 `In fact, what if the opponent actually has some goal other than victory? `
 `Think from your enemy's perspective. `
 `That's the basis of chessboard thinking. `
-`...Which means, if you misread your enemy,  `
+`...Which means, if you misread your enemy, `
 `...the answer you draw from this process will be complete rubbish, useless... `
 `So far, I've used chessboard theory to guess several vague bits of information about the culprit hiding behind this case, or so I think. `
 `However, I don't know anything about the culprit. `
 `...Am I just playing around in a labyrinth of thought? `
-`......If Kyrie-san were here at a time like this,  `
+`......If Kyrie-san were here at a time like this, `
 `...she'd probably be able to notice something with her much, much sharper thinking ability... `
 `...Until the very last moment, Jessica resisted moving into Grandfather's study. `
 `But in the end, Aunt Natsuhi persisted, and we decided to move there. `
@@ -345,7 +345,7 @@
 `Someone suggested that the food might've been poisoned while we were gone. `
 `...Because of that, we were unable to even touch the food that Kumasawa-san had taken the trouble to make for us. `
 `......The manner in which the first six were killed was still unknown, but it certainly could've been poison. `
-`...Certainly, that would allow even a single person to carry out the murder of six large adults. ...Furthermore, this idea made it easy to imagine there being only a single culprit, one who'd be afraid of Aunt Natsuhi's rifle,  `
+`...Certainly, that would allow even a single person to carry out the murder of six large adults. ...Furthermore, this idea made it easy to imagine there being only a single culprit, one who'd be afraid of Aunt Natsuhi's rifle, `
 `and this was very good for our emotional stability. `
 `But the fatigue and hunger were even harsher than we'd imagined. `
 `...Then, Kumasawa-san made a proposal, and we all went together to the kitchen. `
@@ -354,7 +354,7 @@
 `The food piled up on the serving cart looked just a little sad. `
 `We all started climbing the stairs. `
 `Aunt Natsuhi, who was in the lead, warily stared into the darkness with both eyes and the barrel of the gun. `
-`Once we'd dragged ourselves up to the third floor, just as Aunt Natsuhi had warned us of beforehand,  `
+`Once we'd dragged ourselves up to the third floor, just as Aunt Natsuhi had warned us of beforehand, `
 `...there was a mixture of a chemical smell and a sickly-sweet aroma, a stench hanging in the air that felt like it was eating into our heads. `
 `"...I see, this kind of stench probably would give you a headache if you were shut in with it for a whole night. `
 `...I know it's a little late, but I'm with Jessica. I vote against going into Grandfather's study." `
@@ -453,7 +453,7 @@
 `It was apparently the partly finished chess match he'd been playing with Grandfather until yesterday. `
 `...The black had the white pretty well cornered, and it looked like checkmate would be reached within a few moves. The last part of the endgame. `
 `Even though checkmate had almost been reached, `
-`...the endgame had been rushed,  `
+`...the endgame had been rushed, `
 `...and in the end, was never completed. `
 `"...Kinzo-san, `
 `...it seems... `
@@ -465,7 +465,7 @@
 `"...Especially when it came to Beatrice-sama, it would seem like his personality changed..." `
 `In the direction of Kumasawa-san's upward gaze, a portrait of Beatrice could be seen. `
 `It wasn't massive like the one hanging in the entrance hall, but small, made for this room. `
-`Grandfather probably spent every day in this room, and so much of his time,  `
+`Grandfather probably spent every day in this room, and so much of his time, `
 `...talking to the witch in that portrait. `
 `...Who was Beatrice to Grandfather in the first place? `
 `...Right now, you couldn't just explain it away by saying it was a story made by the parents to frighten children away from wandering into the forest... `
@@ -577,8 +577,8 @@
 `...Earlier, this room had seemed creepy, `
 `...but in an instant, it had changed into something we could understand completely. `
 `The creepy books, `
-`the magic circles,  `
-`the medicine,  `
+`the magic circles, `
+`the medicine, `
 `...all of it. `
 `...It all existed simply because he wanted to revive the face of a single woman who had left this world over 30 years ago... `
 `"......The Master only told me about Beatrice-sama's story once, when he was very drunk. `
@@ -587,7 +587,7 @@
 `a deep, deep love, enough to make a woman like me jealous." `
 `"......When Kinzo-san succeeded the Headship of the Ushiromiya family, `
 `...his marriage to his late wife had already been decided by the few surviving family elders." `
-`"...So,  `
+`"...So, `
 `...he was forced into a marriage with some woman who would benefit the Ushiromiya family?" `
 `"...That is correct. `
 `...Kinzo-san was installed as the Head who would revive the family, and had to bear the entirety of that heavy responsibility. `
@@ -605,15 +605,15 @@
 `"...I-I've always thought that...maybe you servants believed blindly in the witch because you were influenced by Grandfather's creepy black magic hobby. `
 `...But that's not how it was, right...?" `
 `By acting as though Beatrice's soul at least had been restored... `
-`and existed inside this mansion,  `
+`and existed inside this mansion, `
 `...they might have hoped to soothe Grandfather's heart... `
-`With closed eyes and the expression of one remembering something from the distant past,  `
+`With closed eyes and the expression of one remembering something from the distant past, `
 `...Genji had broken his long silence. `
 `......In making that confession, he probably felt like he was betraying his one and only Master in the most serious way, even though that person was already dead. `
 `...Beatrice has revived as a witch, and she is in the mansion even now. `
 `......That was his mantra, `
-`he had believed it,  `
-`...had made people believe it,  `
+`he had believed it, `
+`...had made people believe it, `
 `.........And Genji would take that with him to the grave. `
 `This might have been the last service he could offer up to his Master. `
 `The legend of the witch, the mysterious tale of Rokkenjima that was still whispered of amongst the servants... `
@@ -645,7 +645,7 @@
 `...In that case, I believe. `
 `...If Grandfather gave up half of his life for this research, trying to resurrect the soul of the woman he loved and spending the rest of his life believing, ...I'll believe too." `
 `"......Battler........." `
-`"...When you love a single woman for so long,  `
+`"...When you love a single woman for so long, `
 `...the people around you catch on to it, and it becomes the truth. `
 `......Maybe you could say they're just being polite for the sake of your feelings. `
 `......But right here, now, ...I'd like to call that magic." `
@@ -707,13 +707,13 @@
 `...Below it, just like in the entrance hall, was the epitaph that supposedly hinted at the location of the hidden gold... `
 `"..................ah... `
 `.........! `
-`Sacrifices,  `
+`Sacrifices, `
 `...here." `
 `"Wh-What the hell, Battler? `
 `You're creeping me out..." `
 `Six... `
 `sacrifices. `
-`......Ah,  `
+`......Ah, `
 `......aaaaaaaaaaaaaahh!!!" `
 `Both of my eyes opened as wide as plates... `
 `...Everything's been predicted right there from the very beginning...! `
@@ -790,7 +790,7 @@
 `'On the fourth twilight, gouge the head and kill.' `
 `Gouge the head and kill. `
 `...George-aniki's parents were killed with those 'demon's icepicks' gouged into their heads. `
-`...But if they were the second twilight,  `
+`...But if they were the second twilight, `
 `...someone else must've been gouged in the head... `
 `"...That's Grandfather... `
 `He was burned in the incinerator, and our eyes were so drawn to that part that we didn't notice, `
@@ -801,12 +801,12 @@
 `"...'On the fifth twilight, gouge the chest and kill'. `
 `...We thought Kanon-kun's case was an unexpected encounter with the culprit, ......but that's wrong. `
 `From the very beginning, they planned to lure someone out alone and drive something through their chest..." `
-`"......If the culprit has followed the epitaph this far,  `
+`"......If the culprit has followed the epitaph this far, `
 `...does that mean three people still have to die...?!" `
 `'On the sixth twilight, gouge the stomach and kill.' `
 `'On the seventh twilight, gouge the knee and kill.' `
 `'On the eighth twilight, gouge the leg and kill.' `
-`"......Y-Yes,  `
+`"......Y-Yes, `
 `...you could read it that way... `
 `...eeeeepp..." `
 `"Well, I wonder about that... `
@@ -824,7 +824,7 @@
 `'The witch shall praise the wise and bestow four treasures.' `
 `"...Grandfather wasn't afraid of dying. `
 `......Look at the second and third of the four treasures." `
-`"......'One shall be the resurrection of all the dead souls.  `
+`"......'One shall be the resurrection of all the dead souls. `
 `One shall be the resurrection of the love that was lost'. `
 `...So Grandfather believed he would eventually be revived, even if he died partway through this ceremony...?" `
 `"Ridiculous! That's insane!! `
@@ -939,7 +939,7 @@
 `"......Th-That's right. `
 `There can't be a 19th person...! `
 `There's no way witches exist!! `
-`Even when Kanon-kun was killed,  `
+`Even when Kanon-kun was killed, `
 `...yeah, that could be explained if Kumasawa-san was the one who did it!! `
 `The truth is that Kumasawa-san entered the boiler room with Kanon-kun and killed him! `
 `And then she lied, saying he had already fallen when she got there!!" `
@@ -1060,7 +1060,7 @@
 `...The only reason George-aniki and I were standing on this side was because, by coincidence, we had a clear alibi regarding the letter. `
 `If I hadn't approached the portrait, `
 `...I would also be at the other end of that gun barrel, treated like a criminal... `
-`...But even though part of me thought that,  `
+`...But even though part of me thought that, `
 `...part of me was thinking that chasing all the suspicious people from this room would finally guarantee our safety... `
 `Genji-san and Kumasawa-san and Doctor Nanjo... All of them were on Grandfather's side. `
 `Maybe you could say that once Maria started blindly believing in Beatrice, she was also on Grandfather's side. `
