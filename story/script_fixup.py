@@ -7,17 +7,21 @@ ep = sys.argv[1]
 search_re = re.compile(r"@|~|!\w|#")
 fixes = {}
 for tled_file in glob.glob(f"{ep}/wh/*.txt"):
-    fixes[os.path.basename(tled_file)] = {}
-    tled_lines = open(tled_file, encoding="utf-8").readlines()
-    original_lines = open(
-        f"{ep}/en/{os.path.basename(tled_file)}", encoding="utf-8"
-    ).readlines()
-    if len(original_lines) != len(tled_lines):
-        print(f"Line counts don't match for {tled_file}, giving up.")
-        exit()
-    for i, line in enumerate(tled_lines):
-        if search_re.search(line) is not None:
-            fixes[os.path.basename(tled_file)][i] = (line, original_lines[i])
+    try:
+        fixes[os.path.basename(tled_file)] = {}
+        tled_lines = open(tled_file, encoding="utf-8").readlines()
+        original_lines = open(
+            f"{ep}/en/{os.path.basename(tled_file)}", encoding="utf-8"
+        ).readlines()
+        if len(original_lines) != len(tled_lines):
+            print(f"Line counts don't match for {tled_file}, giving up.")
+            sys.exit()
+        for i, line in enumerate(tled_lines):
+            if search_re.search(line) is not None:
+                fixes[os.path.basename(tled_file)][i] = (line, original_lines[i])
+    except:
+        print(f"Error in file {tled_file}, stopping.")
+        raise
 if not os.path.exists("script_fixup.txt"):
     ffile = open("script_fixup.txt", "w", encoding="utf-8")
     for filename, lines in fixes.items():
@@ -36,9 +40,12 @@ else:
             try:
                 fixes[fix[0]][int(fix[1])]
             except:
-                print(f"{fix[0]}:{fix[1]} doesn't need fixing but is in fixes list, skipping.")
-            tled_lines[int(fix[1])] = fix[2].split("->", 1)[1].strip()+"\n"
+                print(
+                    f"{fix[0]}:{fix[1]} doesn't need fixing but is in fixes list, skipping."
+                )
+                continue
+            tled_lines[int(fix[1])] = fix[2].split("->", 1)[1].strip() + "\n"
             open(f"{ep}/wh/{fix[0]}", "w", encoding="utf-8").writelines(tled_lines)
         except:
             pass
-    os.remove('script_fixup.txt')
+    os.remove("script_fixup.txt")

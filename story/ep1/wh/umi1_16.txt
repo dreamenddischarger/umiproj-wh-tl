@@ -573,9 +573,9 @@
 `Because of that power, Beatrice couldn't do anything to me, and me alone." `
 `"So she decided to use the other three as sacrifices. `
 `After that, Beatrice spoke." `
-`'Come, face the wall and sing a song for me. `
+`{e:070:'Come, face the wall and sing a song for me. `
 `...You will sing lots and lots of songs, so no matter what happens, no matter what you hear, you won't hear you won't hear you won't know. `
-`Come, sing lots of fun songs for me.' `
+`Come, sing lots of fun songs for me.'} `
 `"So I was singing the whole time. `
 `Over and over. `
 `So I didn't hear anything, didn't know anything. `
@@ -778,8 +778,7 @@
 `ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha!!"" `
 `As the witch...no, the witches laughed, ...even the large clock in the hall joined in on their laughter... `
 `It was probably telling us that the time was 24:00. `
-`It was both a tone telling us that we had reached the culmination of this day,  `
-`and a tone informing us that all had returned to nothing. `
+`It was both a tone telling us that we had reached the culmination of this day, and a tone informing us that all had returned to nothing. `
 `{i:The rule that the witch would win when time ran out had already been revealed}. `
 `"......Battler, `
 `...George nii-chan and Jessica. `
