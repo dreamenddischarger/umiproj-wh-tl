@@ -6,15 +6,15 @@ Port of Witch Hunt's official Umineko translation to the [Umineko Project](https
 
 *Umineko no Naku Koro ni* is a visual novel released by 07th-Expansion. The game was originally released only in Japan on PC and PS3, with the PS3 release being significantly superior (better art, higher quality music, voice-acting, lip sync, animations, and a whole boatload of other improvements).
 
-The PC release was later translated to English by a group called *Witch-Hunt*. After a while, their translation was made official, received extra polish, and got published on Steam, but, sadly, it had none of the enhancements of the PS3 version.
+The PC release was later translated to English by a group called *Witch Hunt*. After a while, their translation was made official, received extra polish, and got published on Steam, but, sadly, it had none of the enhancements of the PS3 version.
 
-However, there is a  fanmade port of the PS3 version to PC called *Umineko Project*. Because it was created before the official release, this port uses a fan translation created based partially on the older, unofficial Witch-Hunt translation, partially on the official manga translation, and heavy editing done by the Umineko Project team.
+However, there is a  fanmade port of the PS3 version to PC called *Umineko Project*. Because it was created before the official release, this port uses a fan translation created based partially on the older, unofficial Witch Hunt translation, partially on the official manga translation, and heavy editing done by the Umineko Project team.
 
-However, some people prefer Witch-Hunt's new official translation. This project exists to provide a language pack for Umineko Project that allows the use of the official translation combined with all of the improvements and enhancmenets of the PS3 version and the Umineko Project port.
+However, some people prefer Witch Hunt's new official translation. This project exists to provide a language pack for Umineko Project that allows the use of the official translation combined with all of the improvements and enhancmenets of the PS3 version and the Umineko Project port.
 
 ## Do I need this?
 
-If you have to ask, the answer is \<no\>, you don't. The fact that the Witch-Hunt translation has the "official" status doesn't necessarily mean it's superior in any way. Both the Umineko Project and the Witch-Hunt translations are perfectly readable, gramatically correct and clean English. 
+If you have to ask, the answer is \<no\>, you don't. The fact that the Witch Hunt translation has the "official" status doesn't necessarily mean it's superior in any way. Both the Umineko Project and the Witch Hunt translations are perfectly readable, gramatically correct and clean English. 
 
 The two teams, however, made several significantly different translation choices, and some of these choices such as character catchphrases and especially memorable lines stuck with fans one way or the other. This has led to a situation where some people will recommend against Umineko Project simply because it uses an unofficial translation, and that's *no goddamn good at all*. 
 
@@ -41,7 +41,7 @@ Current progress is indicated below. While I try my best to update this project 
 
 # Notes on project structure for contributors
 
-- The `story` folder is what you're interested in. Anything outside of it is irrelevant to this project.
+- The `story` folder is what you're interested in. Anything outside of it is irrelevant to this project. However, if you would like to be credited, please add yourself to `script/wh/credits.txt` under the existing contributors in the "Witch Hunt Translation Backport" section.
 - `story/epX/en/` contains the original Umineko Project translation. Do not modify anything here.
 - `story/epX/wh/` contains a copy of that translation that's being replaced with the WH translation as I progress through the project (see commits to know where I'm at)
 - `story/rest-rondo.txt` and `story/rest-nocturne.txt` are an auto-generated version of the scripts. This won't run by itself and needs manual editing. The parts that are in these files haven't been touched by me yet.
