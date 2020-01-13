@@ -5,6 +5,7 @@
 `"...Master,`
 ` the guest has come to see you."`
 `"............Nn."`
+`Kinzo slowly opened his eyes.`	
 `...Those eyes were red from crying.`
 `They regained their focus and slowly fell on Will.`
 `"...I am...Ushiromiya Kinzo."`
@@ -44,7 +45,7 @@
 ` No matter how Krauss and the others misconstrue it, it will be neither painful nor vexing to me."`
 `"...Willard-sama,`
 ` the Master is not fond of wills.`
-` He is not the sort of man who would abandon a task, so that it might be performed after his life ends."`
+` He is not one to abandon anything while he still lives."`
 `"...Probably true.`
 ` I thought it sounded a bit unlike you."`
 `"The ability to struggle on as long as we have life is what makes us human!`
@@ -101,8 +102,6 @@
 `However, near the end of the first game, when the survivors had all gathered in Kinzo's study...`
 `Genji was asked whether Kinzo and Beatrice ever had a child together, `
 `and he denied it, saying 'I have not heard of anything like that'.`
-`~ib~`
-`~ib~`
 `"That may have been a lie, but in a way, it was a model answer for one of Kinzo's confidants.`
 ` ...After all, in Kinzo's eyes, she ~ib~wasn't a daughter~ib~, but Beatrice reborn."`
 `"Will...!`
