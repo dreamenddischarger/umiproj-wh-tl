@@ -26,9 +26,7 @@
 ` These were combined with Kinzo's constant cries of 'Beatrice, Beatrice' and gradually became the legend of the witch.`
 ` Ushiromiya Maria became entranced by that fictional witch and begged for a chance to meet her.`
 ` ...And then, someone`
-`~ib~`
-`~ib~`
-` ~ib~answered her call~ib~."`
+` answered her call."`
 `"...I'm still not following, but I'll just nod and tell you to keep going.`
 ` ...What do you mean by 'answered her call'?"`
 `"Because of Ushiromiya Maria's unfortunate childhood history, she became obsessed with the occult.`
@@ -136,8 +134,8 @@
 ` To you, Beatrice is either Kinzo's mistress or his benefactor, not a wandering ghost."`
 `"The Head loved Beatrice deeply, did he not?`
 ` I can't imagine why she would be made into a ghost story."`
-`~ib~`
-`~ib~`
+
+
 `"Exactly.`
 ` If you exist, the witch Beatrice doesn't.`
 ` Your existence `
