@@ -195,7 +195,8 @@
 `She promised to play with it later, as if she was talking to a living human.`
 `George, a man, seemed to think that this behavior from a younger member of the opposite sex was cute.`
 `...But, to be perfectly frank...`
-`Jessica, who was the same sex as Maria, found this behavior a bit unpleasant, even though she realized that she was dealing with a younger girl.`
+`Jessica, who was the same sex as Maria,`
+` found this behavior a bit unpleasant, even though she realized that she was dealing with a younger girl.`
 `At one time, even I was fascinated by anime heroines and other fictional characters.`
 `However, ...Maria's behavior seems to signify something more direct than mere fascination.`
 ` ...It's something more definite,`
