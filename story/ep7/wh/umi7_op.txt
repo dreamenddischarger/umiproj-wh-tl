@@ -1,18 +1,28 @@
+`{a:c:`
 `Earth to earth.`
 `Ashes to ashes,`
 ` dust to dust.`
 ` Illusions to illusions.`
-`And dreams to dreams.`
-`A dream is something drawn in the sand between the coming and receding waves.`
-`Something so fragile that it's wiped blank every time a wave comes in.`
-`So, the heartless might sneer, saying that drawing such things is useless and meaningless.`
-`However, no wave will ever come again to wipe away the dream she drew.`
-`And now, that final, beautiful dream of hers...will not disappear for all eternity.`
-`Come, try and picture it.`
-`It's as though the rays of the gentle afternoon sun on a warm spring day...`
-`simply forgot to grow dim ever again.`
-`It truly is...such a wonderful thing...`
-`—Witness to your final dream`
+`And dreams to dreams.}`
+`{a:c:`
+`A dream is something drawn in the sand between the coming and receding waves.}`
+`{a:c:
+`Something so fragile that it's wiped blank every time a wave comes in.}`
+`{a:c:`
+`So, the heartless might sneer, saying that drawing such things is useless and meaningless.}`
+`{a:c:`
+`However, no wave will ever come again to wipe away the dream she drew.}`
+`{a:c:`
+`And now, that final, beautiful dream of hers...will not disappear for all eternity.}`
+`{a:c:`
+`Come, try and picture it.}`
+`{a:c:`
+`It's as though the rays of the gentle afternoon sun on a warm spring day...}`
+`{a:c:`
+`simply forgot to grow dim ever again.}`
+`{a:c:`
+`It truly is...such a wonderful thing...}`
+`—Witness to your final dream,`
 `Publius Virgilia Maro`
 `The suspects were gathered in a room, and several Inquisitors of Heresy were reporting on the results of their investigation.`
 `Their uniforms closely resembled those of Eiserne Jungfrau, but they were slightly different.`
