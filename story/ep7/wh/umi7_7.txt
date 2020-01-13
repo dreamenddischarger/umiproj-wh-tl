@@ -377,9 +377,7 @@
 `"Do you think all that...was just a kid's nonsense?"`
 `"...You mean...`
 `about Beatrice-sama?"`
-`~ib~`
-`~ib~`
-`"See, even you call her '~ib~sama~ib~'."`
+`"See, even you call her 'sama'."`
 `Beatrice is the name of Grandfather's mistress, the person he's still infatuated with.`
 ` ...I realize that, as a servant, Kumasawa-san can't speak of her indiscreetly.`
 `Still, ...that's now become the name of the fictitious witch who lives in this mansion,`
