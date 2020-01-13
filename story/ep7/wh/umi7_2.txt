@@ -547,6 +547,7 @@
 `"{o:0:{e:85:{f:0:{g:0:{m:6:I WI}{m:15:LLG}{m:31:OCA}{m:0:LL KAN}{m:21:ON‐K}{m:22:UN.}}}}}"`
 `"{o:0:{e:85:{f:0:{g:0:{m:13:ARE YO}{m:26:U ABSOLUTELY}{m:4:CER}{m:41:cer}{m:71:TAIN?}}}}}"`
 `"........."`
+`Will's expression had remained unchanged the whole time.`
 `Shannon's face was still kind and gentle.`
 `And yet, the tension was as icy as a frozen lake...`
 `...Beginners in chess will sometimes move their king into check without noticing it.`
@@ -563,7 +564,8 @@
 `Slowly, ...Will lowered his hand.`
 `"Thank you for understanding."`
 `The glow slowly vanished from Will's palm.`
-`That completely incomprehensible tension melted away like a sugar cube in water.`
+`That completely incomprehensible tension melted away...`
+`...like a sugar cube in water.`
 `However, nothing had changed since the beginning.`
 `Will's expression and Shannon's expression...were the same as they always had been.`
 `"Oh, are you leaving?"`
