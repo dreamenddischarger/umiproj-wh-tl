@@ -142,20 +142,15 @@
 `They listened to the frantic babbling of the maid accused of murdering her master.`
 `However, nothing she said could bury the fault in her own alibi.`
 `They were all mere emotional arguments.`
-`I loved and respected the Master so much.`
-` I had no motive for killing him.`
+`{n}I loved and respected the Master so much. I had no motive for killing him.`
 `No matter how much she spoke,`
 ` it only made her look more and more like the floundering true culprit struggling pathetically.`
 `The requirements for the 'who dunnit' and 'how dunnit' had been satisfied.`
-`As for the 'why dunnit', the motive, the heart...`
+`{n}As for the 'why dunnit', the motive, the heart...`
 `...No matter how much she spoke of gratitude for her master, who had graciously given her a job when she'd been left by the wayside after various misfortunes,`
 ` it didn't help her case in the slightest in the mystery genre.`
 `Therefore, her motive didn't matter.`
-`~ib~`
-`~ib~`
-`All of that could just be `
-`~ib~squeezed out~ib~`
-` of the culprit afterwards.`
+`{n}All of that could just be {i:squeezed out} of the culprit afterwards.`
 `An Inquisitor of Heresy took out a roll of parchment and held it forth, cutting off the maid's sobs and protests.`
 `"This is how you committed the crime.`
 ` Know that this indictment has been received by the Great Court and that your arrest has been approved.`
