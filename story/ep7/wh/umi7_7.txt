@@ -311,7 +311,9 @@
 `It's not a bad feeling when you learn something new and your parents praise you.`
 ` ...But when you realize that your parents already knew that thing, it sometimes feels like they're talking down to you.`
 `When a kid learns their one-digit times table, their parents will probably praise them.`
-`However, inconsiderate parents will sometimes ask mean questions, like 'then what is 11 times 11?' or 'what is 16 times 16?' or something similar.`
+`However, inconsiderate parents will sometimes ask mean questions, like 'then what is 11 times 11?'`
+` or 'what is 16 times 16?'`
+` or something similar.`
 `If that happens, the kid will lose his feeling of accomplishment...and will start to feel as though he could never surpass his parents...`
 `"So, it's easy to guess why Maria got interested in the occult, something no one else knew about,`
 ` and started learning more and more about it.`
