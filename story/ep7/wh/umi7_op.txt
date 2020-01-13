@@ -6,7 +6,7 @@
 `And dreams to dreams.}`
 `{a:c:`
 `A dream is something drawn in the sand between the coming and receding waves.}`
-`{a:c:
+`{a:c:`
 `Something so fragile that it's wiped blank every time a wave comes in.}`
 `{a:c:`
 `So, the heartless might sneer, saying that drawing such things is useless and meaningless.}`
@@ -21,8 +21,9 @@
 `simply forgot to grow dim ever again.}`
 `{a:c:`
 `It truly is...such a wonderful thing...}`
-`—Witness to your final dream,`
-`Publius Virgilia Maro`
+`{a:c:`
+`{m:-5:—}—Witness to your final dream,`
+`{e:080:{f:5:Publius Virgilia Maro}}}`
 `The suspects were gathered in a room, and several Inquisitors of Heresy were reporting on the results of their investigation.`
 `Their uniforms closely resembled those of Eiserne Jungfrau, but they were slightly different.`
 ` Also different were the badges signifying their department.`
