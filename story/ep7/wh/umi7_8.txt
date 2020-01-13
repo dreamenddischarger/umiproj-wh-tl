@@ -263,7 +263,8 @@
 ` ...That is, if you'll refrain from ignoring my heart."`
 `"...Sure."`
 `Lion took a deep breath and looked upwards.`
-`...Anyone would be shocked to find that their parents weren't who they believed them to be.`
+`...Anyone would be shocked...`
+` to find that their parents weren't who they believed them to be.`
 `Still, Lion should be grateful.`
 ` Grateful towards the family that raised a child who wanted for nothing...`
 `"It is pretty interesting.`
