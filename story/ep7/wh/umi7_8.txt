@@ -461,7 +461,7 @@
 `The silhouette slowly shook its head.`
 `It had come here because it was already prepared.`
 `Will nodded to show he understood.`
-`...Then,`
-` the two looked into Bernkastel's eyes,`
+`...Then, the two looked into Bernkastel's eyes,`
 ` ...and Will spoke out clearly.`
-`"This is the culprit."`
+`{a:c:`
+`"This is the culprit."}`
