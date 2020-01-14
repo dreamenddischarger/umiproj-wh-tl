@@ -954,7 +954,8 @@
 `"Right, that theory about a ten-day journey ending at the tenth twilight.`
 ` 'On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time.' She took that section to be a literal trip that ends when you 'attain to', or reach, the treasures of the Golden Land."`
 `"What meaning was there in those words?`
-` Realizing that there was something to be found...and then realizing what that something actually was...took another long stretch of time."`
+` Realizing that there was something to be found...and then realizing what that something actually was...`
+` took another long stretch of time."`
 `"By Rosa's reasoning, `
 `'attain to' meant reaching some physical location represented by the four treasures.`
 ` ...It was a good try, but not quite right.`
