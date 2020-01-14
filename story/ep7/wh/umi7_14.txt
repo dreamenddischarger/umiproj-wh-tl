@@ -424,8 +424,7 @@
 `"If a girl's in love with a man, there's nothing wrong with thinking 'I wanna marry him'!`
 ` That's a young girl's natural right."`
 `My face had turned bright red.`
-`Earlier, I thought that considering marriage really was a bit premature, `
-`so I tried as best I could not to think about it.`
+`Earlier, I thought that considering marriage really was a bit premature, so I tried as best I could not to think about it.`
 `...However, when the witches encouraged me to imagine it, that image was both exciting and vivid.`
 `I felt an indescribable feeling of refreshment and awakening,`
 ` ...like the gentle breeze that washes over you when you go outside during a brief spot of sunshine on a rainy day.`
@@ -471,7 +470,7 @@
 `"...*giggle*`
 ` ...*giggle*giggle*giggle*..."`
 `A smile had finally returned to my face.`
-`Of course, I hadn't taken the witches seriously and let myself be reassured.`
+`{n}Of course, I hadn't taken the witches seriously and let myself be reassured.`
 `It was closer to the opposite.`
 ` It was almost funny that they could think up such ridiculously convenient explanations for everything.`
 `However, they had made all of those ridiculous theories to cheer me up.`
