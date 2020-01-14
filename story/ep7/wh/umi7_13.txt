@@ -723,9 +723,10 @@
 `"I'll keep on waiting until that day comes."`
 `"Nng, ...ah..."`
 `If only I had been a bit more foolish...and courageous.`
-`I could have said then and there that I was already prepared, and asked him to take me away from this island right away...`
+`I could have said then and there that I was already prepared,`
+` ...and asked him to take me away from this island right away...`
 `But I couldn't say it.`
-`I had to think carefully about my future, for both of our sakes...`
+`{n}I had to think carefully about my future, for both of our sakes...`
 `My head was filled with pointless, senseless thoughts...`
 `"...I-`
 `I'm glad...`
