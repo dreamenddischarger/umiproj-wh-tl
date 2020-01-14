@@ -47,8 +47,9 @@
 `Not only boring, but difficult, strict, constraining, joyless...`
 `All you get in return for your years of service is some level of respect from the newer servants.`
 `And even that is far from sufficient to repay you for all the hard work you've done...`
+`{a:c:`	
 `"Why do you not tire `
-`of this life?"`
+`of this life?"}`
 `Huh? ...Who...?`
 `She wasn't just imagining someone talking to her.`
 ` ...She was shocked to find that it was real.`
