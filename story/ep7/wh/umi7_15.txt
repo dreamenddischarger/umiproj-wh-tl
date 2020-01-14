@@ -71,14 +71,14 @@
 `......I'll wait.`
 `And, when you do come for me, I'll announce then and there that I'm quitting my job.`
 `I've already prepared myself to do so.`
-`...But...you haven't come yet.`
+`{n}...But...you haven't come yet.`
 `That isn't because you won't come, ...but because I'm not determined enough yet, right?`
 `It's because I haven't clearly envisioned a future with you, right?`
 `I'll wait.`
 ` ...No matter how long.`
 `...Until you come for me, riding a white horse...`
 `I will always treasure our promise.`
-`The promise of our precious resolve...`
+`{n}The promise of our precious resolve...`
 `"Never make a promise with a guy.`
 ` You can't count on them!"`
 `Thinking that she had read my mind, I spun around.`
@@ -101,8 +101,8 @@
 `...When a girl...gets the wrong idea.`
 `Could that be...me...?`
 `No, that can't be.`
-`After all, Battler-san clearly made a promise.`
-`He said he'd come for me riding a white horse.`
+`{n}After all, Battler-san clearly made a promise.`
+`{n}He said he'd come for me riding a white horse.`
 `...I mustn't...doubt.`
 `I'm sure this conversation I'm hearing is just another one of God's trials.`
 `So, I won't listen.`
@@ -110,7 +110,7 @@
 `"If there's one thing I never want to be, it's one of those poor girls who thinks a guy's heart is linked to hers for no reason."`
 `"Ahhahahahahahahahahahaha."`
 `Those demonic sneers tormented me and tried to lead me astray.`
-`...I'm sure he'll come to the next family conference...`
+`{n}...I'm sure he'll come to the next family conference...`
 `But Battler-san didn't appear at the 1982 conference either...`
 `Bit by bit, things were changing from the way they'd been at the last family conference he'd come to.`
 `Everyone had gotten completely used to Kyrie-sama, Rudolf-sama's new wife,`
@@ -159,9 +159,9 @@
 `Battler-san must be looking forward to that day of decision just like me.`
 `I'm not mistaken about that.`
 `He promised me.`
-`He said he'd come riding a white horse.`
+`{n}He said he'd come riding a white horse.`
 `I never asked him to say that.`
-`He said he'd come for me on the day I resolved myself to live life for his sake.`
+`{n}He said he'd come for me on the day I resolved myself to live life for his sake.`
 `He made that promise himself.`
 `For two years,`
 ` I've believed that.`
@@ -170,7 +170,7 @@
 `Battler-san has forgotten about us and has started a new life?`
 `Why are they telling such lies...?`
 `But that night...`
-`I dreamed of Battler-san for the first time in a long while.`
+`{n}I dreamed of Battler-san for the first time in a long while.`
 `The Battler-san in my dream...wasn't the Battler-san I believed in.`
 `...It was the Battler-san that George-sama and Jessica-sama had spoken of,`
 ` ...the one who had forgotten everything and started a new life.`
@@ -178,7 +178,7 @@
 `I woke up with a tear-stained face.`
 `The face I saw in the mirror...cried and told me it couldn't wait any longer.`
 `If I've managed to wait this long, why can't I wait any longer...?`
-`This is a trial.`
+`{n}This is a trial.`
 ` ...So, we must believe in him and wait.`
 `But the me in the mirror spoke.`
 ` ...It was sharper than a fragment of glass.`
@@ -188,8 +188,8 @@
 `And wasn't George-sama talking about it too?`
 ` ...He said that Battler-san had gotten used to his new life and had forgotten about the Ushiromiya family.`
 `...And by now, he isn't the only one who's forgotten.`
-`Unless I ask about it, everyone on this island has forgotten his name.`
-`Even Rudolf-sama doesn't say his name anymore.`
+`{n}Unless I ask about it, everyone on this island has forgotten his name.`
+`{n}Even Rudolf-sama doesn't say his name anymore.`
 `If I weren't here to remember his face,`
 ` ...perhaps his existence would have been erased from everyone's hearts.`
 `...I don't believe it.`
@@ -197,7 +197,7 @@
 `Battler-san must still remember his promise.`
 `We're both waiting for the day of decision, the day we'll be together.`
 `......Battler-san.`
-`I've firmly made up my mind.`
+`{n}I've firmly made up my mind.`
 `Does the fact that you're not here mean that, after all, I'm not determined enough?`
 `No.`
 ` ...It's because you and God are testing me, isn't it?`
@@ -210,8 +210,8 @@
 `I had to acknowledge it now.`
 `...It may be...that I'm pretending not to notice something terrifying and sad.`
 `Battler-san...makes me yearn for him.`
-`Battler-san...makes me sad.`
-`Battler-san...makes it hurt...`
+`{n}Battler-san...makes me sad.`
+`{n}Battler-san...makes it hurt...`
 `Battler-san.`
 `...Do you still remember me, now...?`
 `And then...came the third family conference since Battler-san left.`
@@ -286,7 +286,7 @@
 ` Here they are."`
 `......Huh...?`
 `Did God...really hear my prayers?`
-`I felt as though my heart was going to leap out of my chest.`
+`{n}I felt as though my heart was going to leap out of my chest.`
 `"A letter from Battler?`
 ` Awesome!`
 ` What'd he write?!"`
@@ -357,7 +357,7 @@
 `"I was a dreamer. It was just an illusion I created..."`
 `"To Battler, they were probably just meaningless words to make him sound cool."`
 `...To anyone but her, it would have been such a funny story to hear.`
-`That promise with Battler might have been an illusion the whole time.`
+`{n}That promise with Battler might have been an illusion the whole time.`
 `In the first place, we don't know if they both felt the same way about each other at all.`
 `Love is an illusion.`
 `However, if both sides are seeing the same illusion, that love becomes true.`
@@ -376,7 +376,7 @@
 `"There just wasn't...any promise to start with."`
 `"...It was nothing more than a sad...joke."`
 `...I kept on crying and crying.`
-`I dug my fingernails into my pillow, soaking it with my tears.`
+`{n}I dug my fingernails into my pillow, soaking it with my tears.`
 `How much easier it would be to hate something...`
 `But I can't hate anything.`
 `I just couldn't get over my miserable arrogance, `
@@ -397,7 +397,7 @@
 ` ...I'd rather...that you mocked me..."`
 `Before I knew it, `
 `...a dull, inescapable pain had pierced my chest.`
-`When I pressed my hand against my chest, I realized what that pain was.`
+`{n}When I pressed my hand against my chest, I realized what that pain was.`
 `It was the bud of love, whose seeds I had sown and nurtured in my heart.`
 `Its roots had spread all the way across my chest,`
 ` ...tormenting me like a metal wire wrapped around my heart.`
@@ -445,7 +445,7 @@
 `Beatrice hung her head in shame.`
 `If she hadn't encouraged Shannon so much, it probably wouldn't have been this painful.`
 `Shannon may have been the one to sow the seed of love in her heart.`
-`However, Beatrice had irresponsibly watered it and told Shannon not to give up.`
+`{n}However, Beatrice had irresponsibly watered it and told Shannon not to give up.`
 `...Beatrice scratched at her chest, trying to share Shannon's pain...`
 `"......This is...my fault."`
 `Beatrice mumbled to herself.`
@@ -513,7 +513,7 @@
 ` ...It means that I will accept the pain as well, `
 `...but I will learn of the single element I do not possess, love."`
 `Beatrice...wanted to know love.`
-`She wanted to feel what Shannon had felt in the world of humans.`
+`{n}She wanted to feel what Shannon had felt in the world of humans.`
 `"...And,`
 ` if Battler ever does return,`
 ` if the bud still has not withered and you still desire it,`
@@ -538,19 +538,19 @@
 `The design for the little brother will be a younger boy at the Fukuin House, with whom Shannon was close.`
 `For a name, ...let there be the 音 character, as the Fukuin House rules state.`
 `......Yeah, I've decided.`
-`...That's a perfect name to go with Shannon's.`
+`{n}...That's a perfect name to go with Shannon's.`
 `He'll be...a quiet, reticent boy.`
-`He'll come to Rokkenjima as a new servant.`
+`{n}He'll come to Rokkenjima as a new servant.`
 `There, he'll open his heart to Shannon.`
 `As a duty-minded boy who loves Shannon like a big sister, he'll always be there for her...`
 `Let's have him be a special servant like Genji, who is permitted to serve Kinzo directly.`
 `...Yeah.`
 ` That sounds kinda cool.`
 `Then, Beatrice.`
-`From now on, you will carry the bud of love.`
+`{n}From now on, you will carry the bud of love.`
 `In other words, ...the role of being infatuated with Battler and waiting for his return will go to you.`
 `While you are still the witch who reigns over Rokkenjima's night...`
-`You have also been waiting for Ushiromiya Battler, ever since that day three years ago.`
+`{n}You have also been waiting for Ushiromiya Battler, ever since that day three years ago.`
 `Along with this change in setting, I'll give you a new form as well...`
 `He did tell us what his ideal woman would look like once, remember?`
 `...A woman with a good figure and long, golden hair, like a foreign model.`
@@ -559,19 +559,19 @@
 `A good figure.`
 `...Yeah.`
 ` Something like that.`
-`That's what the new Beatrice will look like.`
+`{n}That's what the new Beatrice will look like.`
 `Come now, hold that bud of love in your heart as you wait for Battler.`
 `...This way, you will learn of love, in exchange for earning pain.`
 `Yes, this will be the setting for my new world.`
 `For Shannon, a new servant like a little brother will come.`
-`He will be a silent, reticent boy.`
+`{n}He will be a silent, reticent boy.`
 ` A duty-minded kid who loves Shannon as a sister.`
 `And the bud of love that has tortured Shannon...will go to the witch, Beatrice.`
 `She will just be holding onto the bud of love for the time being.`
 `However, while she holds onto it, she will be a maiden in love with Battler.`
 `For that time, you will be able to learn what love is...`
 `Come, let the world be modified.`
-`Oh, I am one yet many.`
+`{n}Oh, I am one yet many.`
 `Awaken, us.`
 `And stretch your wings in this new world...`
 `...Slowly, ...I opened my eyes to the gentle rays of the morning sun.`
@@ -580,14 +580,14 @@
 `...The face in my mirror is tear-stained and pathetic.`
 `However, ...my heart is as clear as the morning sun.`
 `I could still clearly remember that strange dream.`
-`However, I can feel myself forgetting it rapidly...`
+`{n}However, I can feel myself forgetting it rapidly...`
 `The place I was in my dreams...had been such a strange place.`
 `A peaceful, calm place.`
 `...There, ...I had left behind the pain I had carried in my chest until yesterday.`
 `So this morning, my heart was at peace...`
 `"Good morning, me..."`
 `My tear-stained face really is pathetic.`
-`However, my expression is bright and cheery.`
+`{n}However, my expression is bright and cheery.`
 `Even now,`
 ` I...`
 `like Battler-san.`
@@ -596,11 +596,11 @@
 `It feels like I've put something precious safely away in the place it belongs.`
 `......Battler-san.`
 ` When will you come back, I wonder...`
-`When you do, I'd like to talk about mystery novels again.`
+`{n}When you do, I'd like to talk about mystery novels again.`
 `...Oh, I almost forgot.`
-`A new boy servant will be coming today, right?`
+`{n}A new boy servant will be coming today, right?`
 `One of the rare servants who will serve the Master directly.`
-`What kind of kid will he be?`
+`{n}What kind of kid will he be?`
 ` I hope we get along well...`
 `What was his name again?`
-`I'm pretty sure it was, umm...`
+`{n}I'm pretty sure it was, umm...`
