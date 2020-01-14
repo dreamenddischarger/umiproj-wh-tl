@@ -339,8 +339,6 @@
 `"She thinks my magic is naught but the scheme of a child like you...?!`
 ` *cackle*cackle* Very well then.`
 ` Let's just show her something that would be impossible for a Human...!"`
-`~ib~`
-`~ib~`
 `"Let's show her my magic!!`
 ` Foolish Belne!`
 ` I'll make you regret not listening to my friend's advice!`
@@ -766,11 +764,9 @@
 ` Indeed, that could be quite amusing."`
 `...If I really think about it,`
 ` I'm bad with mirrors whether I make that rule or not.`
-`~ib~`
-`~ib~`
 `No matter who I want or strive to be, `
 `...the only face that will ever show in a mirror...`
-`is the heartlessly pathetic and realistic face of ~ib~Yasu~ib~.`
+`is the heartlessly pathetic and realistic face of Yasu.`
 `Mirrors, which always force me to face my shabby reality, are something I always want to avoid.`
 `That's right.`
 ` ...I hate mirrors.`
