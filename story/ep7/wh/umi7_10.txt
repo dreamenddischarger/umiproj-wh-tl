@@ -205,11 +205,12 @@
 `"Just give it a rest...!!`
 ` How long are you going to make fun of me?`
 ` This isn't the only time... You always do this!!"`
+`{a:c:`
 `*giggle*, `
 `heh`
 `heh`
 `hah`
-`hahahahahahahahahaha...!!`
+`hahahahahahahahahaha...!!}`
 `The shrill, voiceless laugh of the formless witch continued to mock my sobbing.`
 `The witch is right beside me, laughing at me.`
 `As I dash around the chapel, she's following along with me, taunting me.`
