@@ -703,8 +703,7 @@
 `Kinzo's vast collection of books grows each year.`
 `The books that don't fit in his study are stored in a book storage room that we usually call the library.`
 `...Of course, there are countless books just in this place.`
-`The library has everything from valuable books to apparently worthless books,`
-` all packed together like an antique shop.`
+`The library has everything from valuable books to apparently worthless books, all packed together like an antique shop.`
 `...There was a golden glint in the keyhole of the library's door, and a gold butterfly flitted out.`
 `"Stinky as ever, I see.`
 ` ...Dust, mold.`
