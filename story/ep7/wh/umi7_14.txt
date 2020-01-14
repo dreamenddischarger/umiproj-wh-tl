@@ -451,8 +451,8 @@
 `Then I need to believe that he'll come for me in a year.`
 `...If I doubt that, I don't have the right to wait for him in the first place.`
 `............`
-`"In fact, `
-`Battler might have left the Ushiromiya family because he's set his sights on a future with you."`
+`"In fact, Battler might have left the Ushiromiya family...`
+` because he's set his sights on a future with you."`
 `"Oh, why would that be?"`
 `"If he knows that you will live together and eventually exchange marriage vows,`
 ` having the name Ushiromiya would cause problems, since Shannon is a servant of the Ushiromiya family."`
