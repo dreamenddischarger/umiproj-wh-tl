@@ -264,7 +264,7 @@
 `I understand painfully well why he wanted to leave his family...`
 `But...does that really mean he won't come to Rokkenjima anymore...?`
 `What on earth is going on?`
-`Will he really never return?`
+`{n}Will he really never return?`
 `Unable to ask him this directly, I was forced to live each day fretfully...`
 `...Battler-san.`
 `I understand how you feel...`
@@ -278,10 +278,11 @@
 `...While wearing a truly miserable expression on my face, `
 `I was...`
 `crying...`
+`{a:c:`
 `Shannon,`
-` ......Shannon......`
+` ......Shannon......}`
 `From far away, ...I could hear someone calling to me.`
-`But it was a very strange sort of distance.`
+`{n}But it was a very strange sort of distance.`
 `Though it felt very far away, ...the voice also seemed to be coming from right beside me.`
 `"...Shannon,`
 ` I know...your heart..."`
