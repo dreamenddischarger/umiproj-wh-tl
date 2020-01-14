@@ -202,7 +202,7 @@
 `No.`
 ` ...It's because you and God are testing me, isn't it?`
 `In that case, I will endure.`
-`Until that promised day inevitably comes.`
+`{n}Until that promised day inevitably comes.`
 `...So, ...please.`
 `Battler-san.`
 `I want some proof...that you haven't forgotten me...`
