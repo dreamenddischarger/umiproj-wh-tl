@@ -77,7 +77,7 @@
 ` I'm Ushiromiya Lion."`
 `"...Lion?`
 ` ...Who the heck are you?"`
-`"It's written as '睆御', but pronounced 'Lee-on'.`
+`"It's written as "{p:0:理御}", but pronounced 'Lee-on'.`
 ` ...I guess it is a bit strange for a Japanese name."`
 `"............"`
 `Will stared at Lion's face, wearing a confused expression.`
