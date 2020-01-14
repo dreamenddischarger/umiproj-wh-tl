@@ -949,8 +949,7 @@
 ` That puzzle worried me for a long time.`
 ` It's like the start of an entirely new riddle.`
 ` This time, I would have to solve it all by myself, without any assistance."`
-`"...In a previous game, ...`
-`I'm pretty sure Aunt Rosa formed some sort of theory about the first twilight."`
+`"...In a previous game, ...I'm pretty sure Aunt Rosa formed some sort of theory about the first twilight."`
 `"Right, that theory about a ten-day journey ending at the tenth twilight.`
 ` 'On the tenth twilight, at journey's end, you shall attain to the power of the Golden Land's treasures, once and for the last time.' She took that section to be a literal trip that ends when you 'attain to', or reach, the treasures of the Golden Land."`
 `"What meaning was there in those words?`
