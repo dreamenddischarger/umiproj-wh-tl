@@ -545,7 +545,7 @@
 `...her posture beautiful. `
 `And yet, ...it felt oddly as though windswept drops of rain were sparking and crackling in midair... `
 `"{o:0:{e:85:{f:0:{g:0:{m:6:I WI}{m:15:LLG}{m:31:OCA}{m:0:LL KAN}{m:21:ON‐K}{m:22:UN.}}}}}" `
-`"{o:0:{e:85:{f:0:{g:0:{m:13:ARE YO}{m:26:U ABSOLUTELY}{m:4:CER}{m:41:cer}{m:71:TAIN?}}}}}" `
+`"{o:0:{e:85:{f:0:{g:0:{m:13:ARE YO}{m:26:U ABSOLUTELY}{m:41:cer}{m:71:TAIN?}}}}}" `
 `"........." `
 `Will's expression had remained unchanged the whole time. `
 `Shannon's face was still kind and gentle. `
