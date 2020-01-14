@@ -67,9 +67,11 @@
 `It was as though she'd taken a nap there and woken up from a dream.`
 `...But it felt strange.`
 `Is this golden rose garden a dream?`
-`For some strange reason, it felt as though my entire life up to this point had been a dream, and that I had finally awakened here...`
+`For some strange reason, it felt as though my entire life up to this point had been a dream,`
+`and that I had finally awakened here...`
+`{a:c:`	
 `"Welcome, Shannon.`
-` Welcome to my golden rose garden..."`
+` Welcome to my golden rose garden..."}`
 `There was that voice again.`
 `Shannon looked around to find who it was.`
 `As she did, a golden butterfly landed on the seat across from her and instantly created a human form...`
