@@ -749,7 +749,8 @@
 ` ...I don't mean that I'll quit my job today, right now.`
 ` ...Yes, ...one year.`
 ` ...One year from now."`
-`...If, a year after now, you still feel like coming for me on a white horse...`
+`...If, a year after now,`
+` you still feel like coming for me on a white horse...`
 `And me too.`
 `If I still like you a year from now...`
 `I'd like to dedicate the rest of my life to you...`
